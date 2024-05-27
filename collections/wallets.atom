@@ -1,0 +1,869 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://lucienbags.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://lucienbags.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://lucienbags.com/collections/wallets.atom"/>
+  <title>Lucien</title>
+  <updated>2024-04-09T16:48:20+05:30</updated>
+  <author>
+    <name>Lucien</name>
+  </author>
+  <entry>
+    <id>https://lucienbags.com/products/7028259946580</id>
+    <published>2024-04-09T16:48:20+05:30</published>
+    <updated>2024-04-09T16:48:20+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://lucienbags.com/products/lucien-multi-color-wallet"/>
+    <title>lucien multi color wallet</title>
+    <s:type>WALLEST</s:type>
+    <s:vendor>Lucien</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0573/4645/7684/files/73.png?v=1714475794"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucien<br>
+        <strong>Type: </strong>WALLEST<br>
+        <strong>Price: </strong>
+            249.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">This lucien multi color wallet is a versatile and stylish accessory for any fashion-forward individual. It features a unique multi-color design that adds a pop of color to any outfit, while also providing ample space for all your essentials. Stay organized and chic with this must-have wallet.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://lucienbags.com/products/7028259946580</id>
+      <title>black</title>
+      <s:price currency="INR">249.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/7028259946580</id>
+      <title>green</title>
+      <s:price currency="INR">249.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/7028259946580</id>
+      <title>blue</title>
+      <s:price currency="INR">249.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/7028259946580</id>
+      <title>tan</title>
+      <s:price currency="INR">249.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/7028259946580</id>
+      <title>brown</title>
+      <s:price currency="INR">249.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/7028259946580</id>
+      <title>pink</title>
+      <s:price currency="INR">249.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/7028259946580</id>
+      <title>beige</title>
+      <s:price currency="INR">249.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/7028259946580</id>
+      <title>babu blue</title>
+      <s:price currency="INR">249.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lucienbags.com/products/6985346416724</id>
+    <published>2024-03-22T04:01:44+05:30</published>
+    <updated>2024-03-22T04:01:44+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://lucienbags.com/products/lucien-card-holder"/>
+    <title>Lucien Card Holder</title>
+    <s:type></s:type>
+    <s:vendor>Lucien</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0573/4645/7684/files/JPEGimage28_3aef306a-093e-4c6b-b743-1608bfd06d97.jpg?v=1713513629"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucien<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            549.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Introducing the Lucien Card Holder, the ultimate accessory for organizing your cards. This sleek wallet holds all your cards in one place, providing easy access and convenience. With its compact design, the Lucien Card Holder is perfect for on-the-go professionals. Stay organized and stylish with this must-have accessory.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://lucienbags.com/products/6985346416724</id>
+      <title>Black</title>
+      <s:price currency="INR">549.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/6985346416724</id>
+      <title>Grey</title>
+      <s:price currency="INR">549.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/6985346416724</id>
+      <title>Pink</title>
+      <s:price currency="INR">549.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/6985346416724</id>
+      <title>Brown</title>
+      <s:price currency="INR">549.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/6985346416724</id>
+      <title>Beige</title>
+      <s:price currency="INR">549.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lucienbags.com/products/6985345892436</id>
+    <published>2024-03-22T03:58:56+05:30</published>
+    <updated>2024-03-22T03:58:56+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://lucienbags.com/products/noor-wallet"/>
+    <title>Noor Wallet</title>
+    <s:type></s:type>
+    <s:vendor>Lucien</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0573/4645/7684/files/Edited-08.jpg?v=1714048276"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucien<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">The Noor wallet is a sleek and stylish choice for keeping your cards and cash organized. Crafted from durable materials, it features multiple compartments for easy access and can hold up to 10 cards. Stay organized and secure with the Noor wallet.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://lucienbags.com/products/6985345892436</id>
+      <title>Black</title>
+      <s:price currency="INR">499.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/6985345892436</id>
+      <title>Grey</title>
+      <s:price currency="INR">499.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/6985345892436</id>
+      <title>Brown</title>
+      <s:price currency="INR">499.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/6985345892436</id>
+      <title>Beige</title>
+      <s:price currency="INR">499.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/6985345892436</id>
+      <title>Pink</title>
+      <s:price currency="INR">499.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lucienbags.com/products/6965407383636</id>
+    <published>2024-03-06T18:32:51+05:30</published>
+    <updated>2024-03-06T18:32:51+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://lucienbags.com/products/ruby-wallet"/>
+    <title>Ruby Wallet</title>
+    <s:type></s:type>
+    <s:vendor>Lucien</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0573/4645/7684/files/JPEGimage67_b852f07f-016b-4bbf-a522-4e39b0b96f50.jpg?v=1709730174"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucien<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>As a product expert, I present to you the Ruby Wallet. Made from high-quality materials, this wallet offers durability and style. With its compact design, it easily fits in your pocket while still providing ample storage for your cards and cash. Stay organized and stylish with the Ruby Wallet.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://lucienbags.com/products/6965407383636</id>
+      <title>Black</title>
+      <s:price currency="INR">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/6965407383636</id>
+      <title>Grey</title>
+      <s:price currency="INR">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lucienbags.com/products/6965398274132</id>
+    <published>2024-03-06T18:26:49+05:30</published>
+    <updated>2024-03-06T18:26:49+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://lucienbags.com/products/archie-wallet"/>
+    <title>Archie Wallet</title>
+    <s:type></s:type>
+    <s:vendor>Lucien</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0573/4645/7684/files/Edited-07.jpg?v=1714475043"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucien<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Expertly crafted wallets for all your essentials. Made from high-quality materials and designed to last, our wallets provide secure and organized storage for your cards and cash. Keep your valuables safe and easily accessible with our stylish and functional wallets.340</p>
+<div style="text-align: left;"><strong>PRODUCT DETAILS:     </strong></div>
+<div style="text-align: left;"><br></div>
+<div style="text-align: left;"><br></div>
+<div style="text-align: left;">
+<strong>MATERIAL:                 </strong><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1">PU MATERIAL   </span>  <strong><br></strong><span style="font-size: 0.875rem;"><strong data-mce-fragment="1">WATER RESISTANT:</strong></span><span style="font-size: 0.875rem;">                       Yes<br></span><strong style="font-size: 0.875rem;">PATTERN:                              </strong> <span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1">SOLID     <br></span><strong style="font-size: 0.875rem;">COMPARTMENT</strong><span style="font-size: 0.875rem;"> <strong style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1">: </strong>                             Yes<br></span><strong style="font-size: 0.875rem;">DIMENSIONS (H x L x W): 6</strong><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1">X17X3</span><strong style="font-size: 0.875rem;"><br> POCKETS:                                 </strong><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1"> Yes</span><strong style="font-size: 0.875rem;"><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1"><br></span></strong><strong style="font-size: 0.875rem;">HANDLE :                                   </strong><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1">Yes</span><strong style="font-size: 0.875rem;"><br></strong><strong style="font-size: 0.875rem;">CLOSURE:                              </strong><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1">Zipper</span><strong style="font-size: 0.875rem;"><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1"><br></span></strong><strong style="font-size: 0.875rem;">CARE INSTRUCTION:        </strong><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1">Wipe with clean, soft cloth</span>   <strong style="font-size: 0.875rem;"><br>WHAT ALL CAN FIT IN:      </strong><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1"> M</span><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1">obile can fit in</span>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://lucienbags.com/products/6965398274132</id>
+      <title>Sea Green</title>
+      <s:price currency="INR">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/6965398274132</id>
+      <title>Maroon</title>
+      <s:price currency="INR">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lucienbags.com/products/6965386248276</id>
+    <published>2024-03-06T18:18:56+05:30</published>
+    <updated>2024-03-06T18:18:56+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://lucienbags.com/products/helen-wallet"/>
+    <title>Helen Wallet</title>
+    <s:type></s:type>
+    <s:vendor>Lucien</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0573/4645/7684/files/30.png?v=1714048572"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucien<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Introducing the Helen Wallet, your essential companion for keeping your finances organized. Crafted with the highest quality materials, this wallet offers durability and style. With its sleek design, it easily fits into any bag or pocket. Stay on top of your budget and look sophisticated while doing so.</p>
+<div style="text-align: left;"><strong>PRODUCT DETAILS:     </strong></div>
+<div style="text-align: left;"><br></div>
+<div style="text-align: left;"><br></div>
+<div style="text-align: left;">
+<strong>MATERIAL:                 </strong><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1">PU MATERIAL   </span>  <strong><br></strong><span style="font-size: 0.875rem;"><strong data-mce-fragment="1">WATER RESISTANT:</strong></span><span style="font-size: 0.875rem;">                       Yes<br></span><strong style="font-size: 0.875rem;">PATTERN:                              </strong> <span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1">SOLID     <br></span><strong style="font-size: 0.875rem;">COMPARTMENT</strong><span style="font-size: 0.875rem;"> <strong style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1">: </strong>                             Yes<br></span><strong style="font-size: 0.875rem;">DIMENSIONS (H x L x W): 8</strong><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1">X19X3</span><strong style="font-size: 0.875rem;"><br> POCKETS:                                 </strong><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1"> Yes</span><strong style="font-size: 0.875rem;"><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1"><br></span></strong><strong style="font-size: 0.875rem;">HANDLE :                                   </strong><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1">Yes</span><strong style="font-size: 0.875rem;"><br></strong><strong style="font-size: 0.875rem;">CLOSURE:                              </strong><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1">Zipper</span><strong style="font-size: 0.875rem;"><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1"><br></span></strong><strong style="font-size: 0.875rem;">CARE INSTRUCTION:        </strong><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1">Wipe with clean, soft cloth</span>   <strong style="font-size: 0.875rem;"><br>WHAT ALL CAN FIT IN:      </strong><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1"> M</span><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1">obile can fit in</span>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://lucienbags.com/products/6965386248276</id>
+      <title>Brown</title>
+      <s:price currency="INR">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/6965386248276</id>
+      <title>Black</title>
+      <s:price currency="INR">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/6965386248276</id>
+      <title>Maroon</title>
+      <s:price currency="INR">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/6965386248276</id>
+      <title>Beige</title>
+      <s:price currency="INR">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/6965386248276</id>
+      <title>Sea Green</title>
+      <s:price currency="INR">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lucienbags.com/products/6965378973780</id>
+    <published>2024-03-06T18:14:03+05:30</published>
+    <updated>2024-03-06T18:14:03+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://lucienbags.com/products/olivia-wallet"/>
+    <title>Olivia Wallet</title>
+    <s:type></s:type>
+    <s:vendor>Lucien</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0573/4645/7684/files/21_025ba8e0-b359-4d32-86e0-2984a8a1f6e5.png?v=1714481772"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucien<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Olivia Wallet is a sophisticated and functional accessory. Made from high-quality materials, it offers ample space for cash, cards, and coins. Its sleek design and durable construction make it the perfect addition to any outfit. With the Olivia Wallet, you can stay organized and stylish on the go.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://lucienbags.com/products/6965378973780</id>
+      <title>Green</title>
+      <s:price currency="INR">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/6965378973780</id>
+      <title>Maroon</title>
+      <s:price currency="INR">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/6965378973780</id>
+      <title>Blue</title>
+      <s:price currency="INR">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/6965378973780</id>
+      <title>Beige</title>
+      <s:price currency="INR">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lucienbags.com/products/6965371994196</id>
+    <published>2024-03-06T18:09:37+05:30</published>
+    <updated>2024-03-06T18:09:37+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://lucienbags.com/products/lucien-hobbit-wallet"/>
+    <title>Lucien Hobbit Wallet</title>
+    <s:type></s:type>
+    <s:vendor>Lucien</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0573/4645/7684/files/46.png?v=1714475634"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucien<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Expertly crafted from high-quality materials, the Lucien Hobbit Wallet is the perfect blend of functionality and style. Its sleek design and ample storage space make it ideal for organizing and protecting your essentials. Stay organized and sophisticated with the Lucien Hobbit Wallet.<br><br><strong>PRODUCT DETAILS:     <br></strong><strong style="font-size: 0.875rem;">MATERIAL:                 </strong><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1">PU MATERIAL   </span><span style="font-size: 0.875rem;"> <br></span><span style="font-size: 0.875rem;"><strong data-mce-fragment="1">WATER RESISTANT:</strong></span><span style="font-size: 0.875rem;">                       Yes<br></span><strong style="font-size: 0.875rem;">PATTERN:                              </strong> <span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1">SOLID     <br></span><strong style="font-size: 0.875rem;">COMPARTMENT</strong><span style="font-size: 0.875rem;"> <strong style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1">: </strong>                             Yes<br></span><strong style="font-size: 0.875rem;">DIMENSIONS (H x L x W): 9</strong><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1">X10X3<br></span><strong style="font-size: 0.875rem;"> POCKETS:                                 </strong><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1"> Yes</span><strong style="font-size: 0.875rem;"><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1"><br></span></strong><strong style="font-size: 0.875rem;">HANDLE :                                   </strong><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1">Yes</span><strong style="font-size: 0.875rem;"><br></strong><strong style="font-size: 0.875rem;">CLOSURE:                              </strong><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1">Zipper</span><strong style="font-size: 0.875rem;"><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1"><br></span></strong><strong style="font-size: 0.875rem;">CARE INSTRUCTION:        </strong><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1">Wipe with clean, soft cloth</span>   <strong style="font-size: 0.875rem;"><br>WHAT ALL CAN FIT IN:      </strong><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1"> M</span><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1">obile can fit in</span></p>
+<p><strong>﻿</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://lucienbags.com/products/6965371994196</id>
+      <title>Black</title>
+      <s:price currency="INR">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/6965371994196</id>
+      <title>Maroon</title>
+      <s:price currency="INR">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/6965371994196</id>
+      <title>Beige</title>
+      <s:price currency="INR">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/6965371994196</id>
+      <title>Brown</title>
+      <s:price currency="INR">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/6965371994196</id>
+      <title>Sea Green</title>
+      <s:price currency="INR">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lucienbags.com/products/6965359804500</id>
+    <published>2024-03-06T18:00:58+05:30</published>
+    <updated>2024-03-06T18:00:58+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://lucienbags.com/products/luxe-explorer-wallet"/>
+    <title>Luxe Explorer Wallet</title>
+    <s:type></s:type>
+    <s:vendor>Lucien</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0573/4645/7684/files/42.png?v=1714481237"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucien<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Expertly designed for convenience and style, the Luxe Explorer Wallet is a must-have accessory. Crafted with precision, this wallet boasts a spacious and organized interior, perfect for keeping all your essentials in one place. Say goodbye to clutter and hello to effortless organization with the Luxe Explorer Wallet.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://lucienbags.com/products/6965359804500</id>
+      <title>Maroon</title>
+      <s:price currency="INR">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/6965359804500</id>
+      <title>Green</title>
+      <s:price currency="INR">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/6965359804500</id>
+      <title>Blue</title>
+      <s:price currency="INR">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/6965359804500</id>
+      <title>Pink</title>
+      <s:price currency="INR">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/6965359804500</id>
+      <title>black</title>
+      <s:price currency="INR">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lucienbags.com/products/6965328707668</id>
+    <published>2024-03-06T17:41:15+05:30</published>
+    <updated>2024-03-06T17:41:15+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://lucienbags.com/products/effie-wallet"/>
+    <title>Effie Wallet</title>
+    <s:type></s:type>
+    <s:vendor>Lucien</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0573/4645/7684/files/Edited3-01.png?v=1714481922"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucien<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Effie Wallet is a sleek and efficient way to keep your cards and cash organized. Crafted with high-quality materials, this wallet offers durability and style. With its compact size, it's perfect for any occasion. Stay organized and stylish with the Effie Wallet.340</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://lucienbags.com/products/6965328707668</id>
+      <title>Maroon</title>
+      <s:price currency="INR">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/6965328707668</id>
+      <title>Sea Green</title>
+      <s:price currency="INR">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/6965328707668</id>
+      <title>Beige</title>
+      <s:price currency="INR">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/6965328707668</id>
+      <title>Brown</title>
+      <s:price currency="INR">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lucienbags.com/products/6965319958612</id>
+    <published>2024-03-06T17:34:46+05:30</published>
+    <updated>2024-03-06T17:34:46+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://lucienbags.com/products/lucien-clara-wallet"/>
+    <title>Lucien Clara Wallet</title>
+    <s:type></s:type>
+    <s:vendor>Lucien</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0573/4645/7684/files/Edited4-04.png?v=1714481947"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucien<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Lucien Clara Wallet is a durable and stylish choice for storing your essentials. Made from high-quality materials, this wallet offers both function and fashion. With multiple compartments for cards and cash, it provides convenience and organization. Plus, its sleek design adds a touch of sophistication to your everyday carry.</p>
+<div style="text-align: left;"><strong>PRODUCT DETAILS:     </strong></div>
+<div style="text-align: left;"><br></div>
+<div style="text-align: left;">
+<strong>MATERIAL:                 </strong><span style="font-size: 0.875rem;" data-mce-fragment="1" data-mce-style="font-size: 0.875rem;">PU MATERIAL   </span>  <strong><br></strong><span style="font-size: 0.875rem;"><strong data-mce-fragment="1">WATER RESISTANT:</strong></span><span style="font-size: 0.875rem;">                       Yes<br></span><strong style="font-size: 0.875rem;">PATTERN:                              </strong> <span style="font-size: 0.875rem;" data-mce-fragment="1" data-mce-style="font-size: 0.875rem;">SOLID     <br></span><strong style="font-size: 0.875rem;">COMPARTMENT</strong><span style="font-size: 0.875rem;"> <strong style="font-size: 0.875rem;" data-mce-fragment="1" data-mce-style="font-size: 0.875rem;">: </strong>                             Yes<br></span><strong style="font-size: 0.875rem;">DIMENSIONS (H x L x W): 9</strong><span style="font-size: 0.875rem;" data-mce-fragment="1" data-mce-style="font-size: 0.875rem;">X18X3</span><strong style="font-size: 0.875rem;"><br> POCKETS:                                 </strong><span style="font-size: 0.875rem;" data-mce-fragment="1" data-mce-style="font-size: 0.875rem;"> Yes</span><strong style="font-size: 0.875rem;"><span style="font-size: 0.875rem;" data-mce-fragment="1" data-mce-style="font-size: 0.875rem;"><br></span></strong><strong style="font-size: 0.875rem;">CLOSURE:                              </strong><span style="font-size: 0.875rem;" data-mce-fragment="1" data-mce-style="font-size: 0.875rem;">Zipper</span><strong style="font-size: 0.875rem;"><span style="font-size: 0.875rem;" data-mce-fragment="1" data-mce-style="font-size: 0.875rem;"><br></span></strong><strong style="font-size: 0.875rem;">CARE INSTRUCTION:        </strong><span style="font-size: 0.875rem;" data-mce-fragment="1" data-mce-style="font-size: 0.875rem;">Wipe with clean, soft cloth</span>   <strong style="font-size: 0.875rem;"><br>WHAT ALL CAN FIT IN:      </strong><span style="font-size: 0.875rem;" data-mce-fragment="1" data-mce-style="font-size: 0.875rem;"> M</span><span style="font-size: 0.875rem;" data-mce-fragment="1" data-mce-style="font-size: 0.875rem;">obile can fit in</span>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://lucienbags.com/products/6965319958612</id>
+      <title>Green</title>
+      <s:price currency="INR">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/6965319958612</id>
+      <title>Maroon</title>
+      <s:price currency="INR">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/6965319958612</id>
+      <title>Pink</title>
+      <s:price currency="INR">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lucienbags.com/products/6965312847956</id>
+    <published>2024-03-06T17:29:35+05:30</published>
+    <updated>2024-03-06T17:29:35+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://lucienbags.com/products/lucien-lark-wallet"/>
+    <title>Lucien Lark Wallet</title>
+    <s:type></s:type>
+    <s:vendor>Lucien</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0573/4645/7684/files/Edited-06.jpg?v=1714475732"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucien<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Expertly crafted with genuine leather for durability and style. The Lucien Lark Wallet offers practicality with multiple card slots and a spacious bill compartment. Keep your essentials organized in a sleek and sophisticated design.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://lucienbags.com/products/6965312847956</id>
+      <title>Beige</title>
+      <s:price currency="INR">599.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/6965312847956</id>
+      <title>Maroon</title>
+      <s:price currency="INR">599.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/6965312847956</id>
+      <title>Green</title>
+      <s:price currency="INR">599.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/6965312847956</id>
+      <title>Pink</title>
+      <s:price currency="INR">599.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/6965312847956</id>
+      <title>Blue</title>
+      <s:price currency="INR">599.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lucienbags.com/products/6965172338772</id>
+    <published>2024-03-06T15:49:22+05:30</published>
+    <updated>2024-03-06T15:49:22+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://lucienbags.com/products/lucien-mystique-wallets"/>
+    <title>Lucien Mystique Wallets</title>
+    <s:type></s:type>
+    <s:vendor>Lucien</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0573/4645/7684/files/Edited2-09.png?v=1714481961"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucien<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Expertly crafted wallets from Lucien are the perfect blend of style and functionality. With durable materials and sleek designs, these wallets will keep your cards and cash organized while making a statement. Elevate your everyday carry with Lucien Mystique wallets.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://lucienbags.com/products/6965172338772</id>
+      <title>Mustard</title>
+      <s:price currency="INR">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/6965172338772</id>
+      <title>Maroon</title>
+      <s:price currency="INR">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/6965172338772</id>
+      <title>Beige</title>
+      <s:price currency="INR">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/6965172338772</id>
+      <title>Dark Green</title>
+      <s:price currency="INR">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lucienbags.com/products/6965166047316</id>
+    <published>2024-03-06T15:42:02+05:30</published>
+    <updated>2024-03-06T15:42:02+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://lucienbags.com/products/nomad-wallet"/>
+    <title>Nomad Wallet</title>
+    <s:type></s:type>
+    <s:vendor>Lucien</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0573/4645/7684/files/41.png?v=1714048752"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucien<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Introducing the Nomad Wallet - the ultimate solution for keeping your essentials in one organized and secure place. With a sleek and slim design, this wallet is made from high-quality materials and can hold your cards, cash, and even your phone. Stay organized and prepared on-the-go with the Nomad Wallet.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://lucienbags.com/products/6965166047316</id>
+      <title>Beige</title>
+      <s:price currency="INR">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/6965166047316</id>
+      <title>Blue</title>
+      <s:price currency="INR">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/6965166047316</id>
+      <title>Dark Green</title>
+      <s:price currency="INR">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/6965166047316</id>
+      <title>Mustard</title>
+      <s:price currency="INR">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/6965166047316</id>
+      <title>maroon</title>
+      <s:price currency="INR">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+</feed>

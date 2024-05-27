@@ -1,0 +1,822 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://lucienbags.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://lucienbags.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://lucienbags.com/collections/backpack.atom"/>
+  <title>Lucien</title>
+  <updated>2024-04-28T17:52:50+05:30</updated>
+  <author>
+    <name>Lucien</name>
+  </author>
+  <entry>
+    <id>https://lucienbags.com/products/7108749426772</id>
+    <published>2024-04-28T17:52:50+05:30</published>
+    <updated>2024-04-28T17:52:50+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://lucienbags.com/products/lucien-classic-bagpack"/>
+    <title>Lucien Classic Bagpack</title>
+    <s:type></s:type>
+    <s:vendor>Lucien</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0573/4645/7684/files/4E9209E8-3787-48B5-9BE1-F9DA8F4C494C.jpg?v=1714306972"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucien<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Lucien Classic Backpack offers spacious and durable carrying capabilities, making it ideal for students, travelers, and professionals alike. With its versatile design and sturdy construction, this bagpack provides the perfect balance of practicality and style. Elevate your storage game with the Lucien Classic Backpack.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://lucienbags.com/products/7108749426772</id>
+      <title>Default Title</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lucienbags.com/products/6968335859796</id>
+    <published>2024-04-05T10:14:39+05:30</published>
+    <updated>2024-04-05T10:14:39+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://lucienbags.com/products/ador-bagpack"/>
+    <title>Ador Bagpack</title>
+    <s:type></s:type>
+    <s:vendor>Lucien</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0573/4645/7684/files/JPEGimage41_a53fbd1b-b125-4d51-9d8c-0451bdc5a5e3.jpg?v=1713512147"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucien<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">cc</p>
+<table style="height: 361px; width: 447px;" height="443" width="562" data-mce-fragment="1">
+<tbody data-mce-fragment="1">
+<tr style="height: 82px;" data-mce-fragment="1">
+<td style="width: 269.979px; height: 82px;" data-mce-fragment="1">
+<div style="text-align: left;"><strong>PRODUCT DETAILS:     </strong></div>
+<div style="text-align: left;"><br></div>
+<div style="text-align: left;"><br></div>
+<div style="text-align: left;">
+<strong>MATERIAL:                Polyestar</strong><span style="font-size: 0.875rem;" data-mce-fragment="1" data-mce-style="font-size: 0.875rem;">  </span>  <strong><br></strong><span style="font-size: 0.875rem;"><strong data-mce-fragment="1">WATER RESISTANT:</strong></span><span style="font-size: 0.875rem;">                       Yes<br></span><strong style="font-size: 0.875rem;">PATTERN:                              </strong> <span style="font-size: 0.875rem;" data-mce-fragment="1" data-mce-style="font-size: 0.875rem;">SOLID     <br></span><strong style="font-size: 0.875rem;">COMPARTMENT</strong><span style="font-size: 0.875rem;"> <strong style="font-size: 0.875rem;" data-mce-fragment="1" data-mce-style="font-size: 0.875rem;">: </strong>                             Yes<br></span><strong style="font-size: 0.875rem;">DIMENSIONS (H x L x W): 31</strong><span style="font-size: 0.875rem;" data-mce-fragment="1" data-mce-style="font-size: 0.875rem;">X25X13</span><strong style="font-size: 0.875rem;"><br> POCKETS:                                 </strong><span style="font-size: 0.875rem;" data-mce-fragment="1" data-mce-style="font-size: 0.875rem;"> Yes</span><strong style="font-size: 0.875rem;"><span style="font-size: 0.875rem;" data-mce-fragment="1" data-mce-style="font-size: 0.875rem;"><br></span></strong><strong style="font-size: 0.875rem;">HANDLE :                                   </strong><span style="font-size: 0.875rem;" data-mce-fragment="1" data-mce-style="font-size: 0.875rem;">Yes</span><strong style="font-size: 0.875rem;"><br></strong><strong style="font-size: 0.875rem;">CLOSURE:                              </strong><span style="font-size: 0.875rem;" data-mce-fragment="1" data-mce-style="font-size: 0.875rem;">Zipper</span><strong style="font-size: 0.875rem;"><span style="font-size: 0.875rem;" data-mce-fragment="1" data-mce-style="font-size: 0.875rem;"><br></span></strong><strong style="font-size: 0.875rem;">CARE INSTRUCTION:        </strong><span style="font-size: 0.875rem;" data-mce-fragment="1" data-mce-style="font-size: 0.875rem;">Wipe with clean, soft cloth</span>   <strong style="font-size: 0.875rem;"><br>WHAT ALL CAN FIT IN:      </strong><span style="font-size: 0.875rem;" data-mce-fragment="1" data-mce-style="font-size: 0.875rem;"> M</span><span style="font-size: 0.875rem;" data-mce-fragment="1" data-mce-style="font-size: 0.875rem;">obile can fit in</span>
+</div>
+</td>
+<td style="width: 163.021px; height: 82px;" data-mce-fragment="1"></td>
+</tr>
+<tr style="height: 82px;" data-mce-fragment="1">
+<td style="width: 269.979px; height: 82px;" data-mce-fragment="1"></td>
+<td style="width: 163.021px; height: 82px;" data-mce-fragment="1"></td>
+</tr>
+<tr style="height: 82px;" data-mce-fragment="1">
+<td style="width: 269.979px; height: 82px;" data-mce-fragment="1"></td>
+<td style="width: 163.021px; height: 82px;" data-mce-fragment="1"></td>
+</tr>
+<tr style="height: 10px;" data-mce-fragment="1">
+<td style="width: 269.979px; height: 10px;" data-mce-fragment="1"></td>
+<td style="width: 163.021px; height: 10px;" data-mce-fragment="1"></td>
+</tr>
+</tbody>
+</table>
+<h1><br></h1></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://lucienbags.com/products/6968335859796</id>
+      <title>Black</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/6968335859796</id>
+      <title>Maroon</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/6968335859796</id>
+      <title>Pink</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/6968335859796</id>
+      <title>Blue</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lucienbags.com/products/6975065718868</id>
+    <published>2024-03-12T15:41:41+05:30</published>
+    <updated>2024-03-12T15:41:41+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://lucienbags.com/products/lucien-alexi-bagpack"/>
+    <title>Lucien Alexi Bagpack</title>
+    <s:type></s:type>
+    <s:vendor>Lucien</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0573/4645/7684/files/JPEGimage9_6926c489-8ade-472a-9f5c-fc59f94e3f54.jpg?v=1710238304"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucien<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Lucien Alexi Bagpack is a versatile and durable bag, perfect for daily use or travel. Its spacious design allows for easy organization, while its sturdy material ensures long-lasting use. Crafted with functionality in mind, this bagpack is a must-have for any on-the-go individual.</p>
+<div style="text-align: left;"><strong>PRODUCT DETAILS:     </strong></div>
+<div style="text-align: left;"><br></div>
+<div style="text-align: left;"><br></div>
+<div style="text-align: left;">
+<strong>MATERIAL:                 </strong><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1">PU MATERIAL   </span>  <strong><br></strong><span style="font-size: 0.875rem;"><strong data-mce-fragment="1">WATER RESISTANT:</strong></span><span style="font-size: 0.875rem;">                       Yes<br></span><strong style="font-size: 0.875rem;">PATTERN:                              </strong> <span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1">SOLID     <br></span><strong style="font-size: 0.875rem;">COMPARTMENT</strong><span style="font-size: 0.875rem;"> <strong style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1">: </strong>                             Yes<br></span><strong style="font-size: 0.875rem;">DIMENSIONS (H x L x W): 34</strong><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1">X28X15</span><strong style="font-size: 0.875rem;"><br> POCKETS:                                 </strong><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1"> Yes</span><strong style="font-size: 0.875rem;"><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1"><br></span></strong><strong style="font-size: 0.875rem;">HANDLE :                                   </strong><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1">Yes</span><strong style="font-size: 0.875rem;"><br></strong><strong style="font-size: 0.875rem;">CLOSURE:                              </strong><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1">Zipper</span><strong style="font-size: 0.875rem;"><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1"><br></span></strong><strong style="font-size: 0.875rem;">CARE INSTRUCTION:        </strong><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1">Wipe with clean, soft cloth</span>   <strong style="font-size: 0.875rem;"><br>WHAT ALL CAN FIT IN:      </strong><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1"> M</span><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1">obile can fit in</span>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://lucienbags.com/products/6975065718868</id>
+      <title>Default Title</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lucienbags.com/products/6975064866900</id>
+    <published>2024-03-12T15:39:28+05:30</published>
+    <updated>2024-03-12T15:39:28+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://lucienbags.com/products/lucien-alexa-bagpack"/>
+    <title>Lucien Alexa bagpack</title>
+    <s:type></s:type>
+    <s:vendor>Lucien</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0573/4645/7684/files/JPEGimage10_e8b512ac-48dd-4407-92fa-8ba2bac519ac.jpg?v=1710238188"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucien<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Lucien Alexa backpack is a must-have for the on-the-go professional. Made from durable materials, this backpack provides optimal storage and convenience with its spacious design and practical compartments. Keep your essentials organized and secure while maintaining a stylish and sleek look. Perfect for daily commutes or travel.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://lucienbags.com/products/6975064866900</id>
+      <title>Default Title</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lucienbags.com/products/6975064604756</id>
+    <published>2024-03-12T15:37:34+05:30</published>
+    <updated>2024-03-12T15:37:34+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://lucienbags.com/products/lucien-lucifer-bagpack"/>
+    <title>Lucien Lucifer Bagpack</title>
+    <s:type></s:type>
+    <s:vendor>Lucien</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0573/4645/7684/files/JPEGimage14_0ac62623-a84f-4df6-b7fe-c08e600cb31c.jpg?v=1710238057"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucien<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Expertly designed for maximum functionality, the Lucien Lucifer Bagpack is the ultimate companion for your everyday adventures. With its spacious interior and durable materials, this bagpack is perfect for carrying your essentials while on the go. Stay organized and comfortable with this high-quality bagpack.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://lucienbags.com/products/6975064604756</id>
+      <title>Default Title</title>
+      <s:price currency="INR">1299.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lucienbags.com/products/6975064277076</id>
+    <published>2024-03-12T15:35:59+05:30</published>
+    <updated>2024-03-12T15:35:59+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://lucienbags.com/products/lucien-noor-bagpack"/>
+    <title>Lucien Noor Bagpack</title>
+    <s:type></s:type>
+    <s:vendor>Lucien</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0573/4645/7684/files/JPEGimage20_ab3fd59d-4153-4eb9-a6d9-f0350ec8cc66.jpg?v=1710237961"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucien<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Lucien Noor Bagpack is a versatile and durable bagpack designed for everyday use. Made from high-quality materials, this bagpack is perfect for those looking for both functionality and style. With multiple compartments and adjustable straps, it offers plenty of storage and comfort for all your belongings. Take it on your daily commute, weekend adventures, or travels with ease.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://lucienbags.com/products/6975064277076</id>
+      <title>Default Title</title>
+      <s:price currency="INR">1299.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lucienbags.com/products/6975063851092</id>
+    <published>2024-03-12T15:33:55+05:30</published>
+    <updated>2024-03-12T15:33:55+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://lucienbags.com/products/lucien-remi-bagpack"/>
+    <title>Lucien Remi Bagpack</title>
+    <s:type></s:type>
+    <s:vendor>Lucien</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0573/4645/7684/files/JPEGimage_ea1e0df0-04da-485a-a032-e17187f7be5e.jpg?v=1710237838"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucien<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Experience convenience and comfort with bagpack 078. With its durable design, you can easily carry all your essentials on-the-go. Perfect for travel or everyday use, this bagpack will be your go-to for any adventure.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://lucienbags.com/products/6975063851092</id>
+      <title>Default Title</title>
+      <s:price currency="INR">1299.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lucienbags.com/products/6968336646228</id>
+    <published>2024-03-08T17:10:38+05:30</published>
+    <updated>2024-03-08T17:10:38+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://lucienbags.com/products/maria-bagpack"/>
+    <title>Maria Bagpack</title>
+    <s:type></s:type>
+    <s:vendor>Lucien</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0573/4645/7684/files/JPEGimage27_fb2d0b58-a346-46f1-8a63-27966af0d1dc.jpg?v=1709898042"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucien<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Introducing our sturdy and durable bagpacks designed for your everyday travel needs. With high-quality materials and comfortable straps, you can confidently carry your essentials for any adventure. Made for the modern traveler seeking both style and functionality, our bagpacks are a must-have accessory.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://lucienbags.com/products/6968336646228</id>
+      <title>Black</title>
+      <s:price currency="INR">1399.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/6968336646228</id>
+      <title>Blue</title>
+      <s:price currency="INR">1399.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/6968336646228</id>
+      <title>Pink</title>
+      <s:price currency="INR">1399.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/6968336646228</id>
+      <title>Purple</title>
+      <s:price currency="INR">1399.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/6968336646228</id>
+      <title>Sea Green</title>
+      <s:price currency="INR">1399.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/6968336646228</id>
+      <title>Dark Pink</title>
+      <s:price currency="INR">1399.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lucienbags.com/products/6968336449620</id>
+    <published>2024-03-08T17:04:23+05:30</published>
+    <updated>2024-03-08T17:04:23+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://lucienbags.com/products/fable-bagpack"/>
+    <title>Fable Bagpack</title>
+    <s:type></s:type>
+    <s:vendor>Lucien</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0573/4645/7684/files/JPEGimage50_6483cddf-76e8-47e4-88a1-f84823626656.jpg?v=1709897666"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucien<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1199.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>As an expert in the bag industry, I introduce the Fable Bagpack. Made with durable materials, it offers ample storage space without compromising on comfort. With its ergonomic design, you can carry all your essentials with ease. Perfect for everyday use, this bagpack is a must-have for any adventurer.660</p>
+<div style="text-align: left;"><strong>PRODUCT DETAILS:     </strong></div>
+<div style="text-align: left;"><br></div>
+<div style="text-align: left;"><br></div>
+<div style="text-align: left;">
+<strong>MATERIAL:                 </strong><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1">PU MATERIAL   </span>  <strong><br></strong><span style="font-size: 0.875rem;"><strong data-mce-fragment="1">WATER RESISTANT:</strong></span><span style="font-size: 0.875rem;">                       Yes<br></span><strong style="font-size: 0.875rem;">PATTERN:                              </strong> <span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1">SOLID     <br></span><strong style="font-size: 0.875rem;">COMPARTMENT</strong><span style="font-size: 0.875rem;"> <strong style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1">: </strong>                             Yes<br></span><strong style="font-size: 0.875rem;">DIMENSIONS (H x L x W): 37</strong><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1">X25X15</span><strong style="font-size: 0.875rem;"><br> POCKETS:                                 </strong><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1"> Yes</span><strong style="font-size: 0.875rem;"><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1"><br></span></strong><strong style="font-size: 0.875rem;">HANDLE :                                   </strong><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1">Yes</span><strong style="font-size: 0.875rem;"><br></strong><strong style="font-size: 0.875rem;">CLOSURE:                              </strong><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1">Zipper</span><strong style="font-size: 0.875rem;"><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1"><br></span></strong><strong style="font-size: 0.875rem;">CARE INSTRUCTION:        </strong><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1">Wipe with clean, soft cloth</span>   <strong style="font-size: 0.875rem;"><br>WHAT ALL CAN FIT IN:      </strong><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1"> M</span><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1">obile can fit in</span>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://lucienbags.com/products/6968336449620</id>
+      <title>Purple</title>
+      <s:price currency="INR">1199.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/6968336449620</id>
+      <title>Green</title>
+      <s:price currency="INR">1199.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/6968336449620</id>
+      <title>Beige</title>
+      <s:price currency="INR">1199.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lucienbags.com/products/6968336351316</id>
+    <published>2024-03-08T16:59:59+05:30</published>
+    <updated>2024-03-08T16:59:59+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://lucienbags.com/products/kenny-bagpack"/>
+    <title>Kenny Bagpack</title>
+    <s:type></s:type>
+    <s:vendor>Lucien</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0573/4645/7684/files/JPEGimage36_b2c34181-0870-468c-9525-ef64fb519480.jpg?v=1709897403"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucien<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1149.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Kenny Backpack is a versatile and practical bagpack designed for all your daily needs. With its sturdy design and ample storage space, it can comfortably carry your belongings while distributing weight evenly for added comfort. Perfect for any adventure or commute, the Kenny Backpack will quickly become your go-to bag.</p>
+<div style="text-align: left;"><strong>PRODUCT DETAILS:     </strong></div>
+<div style="text-align: left;"><br></div>
+<div style="text-align: left;"><br></div>
+<div style="text-align: left;">
+<strong>MATERIAL:                 </strong><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1">PU MATERIAL   </span>  <strong><br></strong><span style="font-size: 0.875rem;"><strong data-mce-fragment="1">WATER RESISTANT:</strong></span><span style="font-size: 0.875rem;">                       Yes<br></span><strong style="font-size: 0.875rem;">PATTERN:                              </strong> <span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1">SOLID     <br></span><strong style="font-size: 0.875rem;">COMPARTMENT</strong><span style="font-size: 0.875rem;"> <strong style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1">: </strong>                             Yes<br></span><strong style="font-size: 0.875rem;">DIMENSIONS (H x L x W): 35</strong><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1">X24X14</span><strong style="font-size: 0.875rem;"><br> POCKETS:                                 </strong><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1"> Yes</span><strong style="font-size: 0.875rem;"><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1"><br></span></strong><strong style="font-size: 0.875rem;">HANDLE :                                   </strong><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1">Yes</span><strong style="font-size: 0.875rem;"><br></strong><strong style="font-size: 0.875rem;">CLOSURE:                              </strong><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1">Zipper</span><strong style="font-size: 0.875rem;"><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1"><br></span></strong><strong style="font-size: 0.875rem;">CARE INSTRUCTION:        </strong><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1">Wipe with clean, soft cloth</span>   <strong style="font-size: 0.875rem;"><br>WHAT ALL CAN FIT IN:      </strong><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1"> M</span><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1">obile can fit in</span>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://lucienbags.com/products/6968336351316</id>
+      <title>black</title>
+      <s:price currency="INR">1149.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/6968336351316</id>
+      <title>Orange</title>
+      <s:price currency="INR">1149.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/6968336351316</id>
+      <title>Blue</title>
+      <s:price currency="INR">1149.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/6968336351316</id>
+      <title>Maroon</title>
+      <s:price currency="INR">1149.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/6968336351316</id>
+      <title>Beige</title>
+      <s:price currency="INR">1149.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lucienbags.com/products/6968336253012</id>
+    <published>2024-03-08T16:55:31+05:30</published>
+    <updated>2024-03-08T16:55:31+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://lucienbags.com/products/pixie-bagpack"/>
+    <title>Pixie Bagpack</title>
+    <s:type></s:type>
+    <s:vendor>Lucien</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0573/4645/7684/files/JPEGimage52_395ed15d-8fbc-438c-a65e-8aa721d0f430.jpg?v=1709897133"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucien<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Expertly designed for ultimate functionality, the Pixie Bagpack is a must-have for any adventure. Built with durable materials, this bagpack offers ample storage space and comfortable wear. Perfect for outdoor enthusiasts, business travelers, and students alike.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://lucienbags.com/products/6968336253012</id>
+      <title>Black</title>
+      <s:price currency="INR">1299.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/6968336253012</id>
+      <title>Purple</title>
+      <s:price currency="INR">1299.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/6968336253012</id>
+      <title>Blue</title>
+      <s:price currency="INR">1299.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/6968336253012</id>
+      <title>Pink</title>
+      <s:price currency="INR">1299.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lucienbags.com/products/6966758998100</id>
+    <published>2024-03-07T15:33:12+05:30</published>
+    <updated>2024-03-07T15:33:12+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://lucienbags.com/products/omisha-bagpack"/>
+    <title>Omisha Bagpack</title>
+    <s:type></s:type>
+    <s:vendor>Lucien</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0573/4645/7684/files/JPEGimage30_4447bbfa-e37a-4b73-b3db-04489f7a47fd.jpg?v=1709805794"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucien<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1199.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>As an industry expert, I would recommend the Omisha Bagpack for its functionality and durability. Made with high-quality materials, this bagpack ensures comfortable and convenient storage for your belongings on the go. Its ergonomic design and spacious compartments make it a must-have for any journey.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://lucienbags.com/products/6966758998100</id>
+      <title>Default Title</title>
+      <s:price currency="INR">1199.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lucienbags.com/products/6966743629908</id>
+    <published>2024-03-07T15:30:47+05:30</published>
+    <updated>2024-03-07T15:30:47+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://lucienbags.com/products/ruby-bagpack"/>
+    <title>Ruby Bagpack</title>
+    <s:type></s:type>
+    <s:vendor>Lucien</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0573/4645/7684/files/JPEGimage32_6e8203ec-e116-4e20-a2f1-d5bb630e7517.jpg?v=1709805650"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucien<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Ruby Backpack is a must-have for any adventurer. Made from durable nylon, it offers excellent protection for your belongings while on-the-go. With its lightweight design and sturdy construction, this backpack is perfect for long journeys or daily commutes. Stay organized and secure with the Ruby Backpack.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://lucienbags.com/products/6966743629908</id>
+      <title>Pink</title>
+      <s:price currency="INR">1299.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/6966743629908</id>
+      <title>Green</title>
+      <s:price currency="INR">1299.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/6966743629908</id>
+      <title>Black</title>
+      <s:price currency="INR">1299.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/6966743629908</id>
+      <title>Purple</title>
+      <s:price currency="INR">1299.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lucienbags.com/products/6966731767892</id>
+    <published>2024-03-07T15:20:20+05:30</published>
+    <updated>2024-03-07T15:20:20+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://lucienbags.com/products/zinel-bagpack"/>
+    <title>Zinel Bagpack</title>
+    <s:type></s:type>
+    <s:vendor>Lucien</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0573/4645/7684/files/JPEGimage12.jpg?v=1709805348"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucien<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Discover the superior convenience and organization of the Zinel Bagpack. With ample space and specialized compartments, this bagpack is the ultimate travel companion. Keep all your belongings organized and secure while on the go. Experience stress-free travel with the Zinel Bagpack.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://lucienbags.com/products/6966731767892</id>
+      <title>Blue</title>
+      <s:price currency="INR">1399.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/6966731767892</id>
+      <title>Pink</title>
+      <s:price currency="INR">1399.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lucienbags.com/products/6966731145300</id>
+    <published>2024-03-07T15:17:23+05:30</published>
+    <updated>2024-03-07T15:17:23+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://lucienbags.com/products/alicia-bagpack"/>
+    <title>Alicia Bagpack</title>
+    <s:type></s:type>
+    <s:vendor>Lucien</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0573/4645/7684/files/JPEGimage9_178fdba8-649b-43e1-b7ad-6125a14c2f6e.jpg?v=1709804846"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucien<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Expertly designed for optimal comfort and organization, the Alicia Bagpack is the perfect accessory for your daily adventures. With ample space and convenient pockets, this bagpack ensures easy storage and access to all your essentials. Travel with ease and style with the Alicia Bagpack.540</p>
+<div style="text-align: left;"><strong>PRODUCT DETAILS:     </strong></div>
+<div style="text-align: left;"><br></div>
+<div style="text-align: left;"><br></div>
+<div style="text-align: left;">
+<strong>MATERIAL:                 </strong><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1">PU MATERIAL   </span>  <strong><br></strong><span style="font-size: 0.875rem;"><strong data-mce-fragment="1">WATER RESISTANT:</strong></span><span style="font-size: 0.875rem;">                       Yes<br></span><strong style="font-size: 0.875rem;">PATTERN:                              </strong> <span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1">SOLID     <br></span><strong style="font-size: 0.875rem;">COMPARTMENT</strong><span style="font-size: 0.875rem;"> <strong style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1">: </strong>                             Yes<br></span><strong style="font-size: 0.875rem;">DIMENSIONS (H x L x W): 34</strong><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1">X28X15</span><strong style="font-size: 0.875rem;"><br> POCKETS:                                 </strong><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1"> Yes</span><strong style="font-size: 0.875rem;"><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1"><br></span></strong><strong style="font-size: 0.875rem;">HANDLE :                                   </strong><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1">Yes</span><strong style="font-size: 0.875rem;"><br></strong><strong style="font-size: 0.875rem;">CLOSURE:                              </strong><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1">Zipper</span><strong style="font-size: 0.875rem;"><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1"><br></span></strong><strong style="font-size: 0.875rem;">CARE INSTRUCTION:        </strong><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1">Wipe with clean, soft cloth</span>   <strong style="font-size: 0.875rem;"><br>WHAT ALL CAN FIT IN:      </strong><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1"> M</span><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1">obile can fit in</span>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://lucienbags.com/products/6966731145300</id>
+      <title>Print 1</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/6966731145300</id>
+      <title>Print 2</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/6966731145300</id>
+      <title>Print 3</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/6966731145300</id>
+      <title>Print 4</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/6966731145300</id>
+      <title>Print 5</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lucienbags.com/products/6952623374420</id>
+    <published>2024-02-22T16:08:24+05:30</published>
+    <updated>2024-02-22T16:08:24+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://lucienbags.com/products/millionaire-bacpack"/>
+    <title>Millionaire Bagpack</title>
+    <s:type></s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0573/4645/7684/files/JPEGimage_9144af41-2ed1-4308-9e49-730c7a1b2488.jpg?v=1710152453"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>My Store<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Introducing the Millionaire Backpack - a perfect blend of style and functionality. Its sleek, aesthetic design sets it apart from traditional backpacks, making it a must-have for fashion-forward individuals. With ample storage space and durable construction, it's the perfect companion for all your adventures. Upgrade your backpack game with the Millionaire Backpack.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>woo_import_1</s:tag>
+    <s:variant>
+      <id>https://lucienbags.com/products/6952623374420</id>
+      <title>Pattern 1</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>3876-XNXX-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/6952623374420</id>
+      <title>Pattern 2</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku>3876-XNXX-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

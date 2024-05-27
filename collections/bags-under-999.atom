@@ -1,0 +1,1312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://lucienbags.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://lucienbags.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://lucienbags.com/collections/bags-under-999.atom"/>
+  <title>Lucien</title>
+  <updated>2024-04-10T15:21:40+05:30</updated>
+  <author>
+    <name>Lucien</name>
+  </author>
+  <entry>
+    <id>https://lucienbags.com/products/7032513593428</id>
+    <published>2024-04-10T15:21:40+05:30</published>
+    <updated>2024-04-10T15:21:40+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://lucienbags.com/products/lucien-trekease-sling"/>
+    <title>lucien trekease sling</title>
+    <s:type>sling bag</s:type>
+    <s:vendor>Lucien</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0573/4645/7684/files/JPEGimage31_4fc3bcdb-e294-452f-bf1b-d4f6c9be3e28.jpg?v=1713514394"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucien<br>
+        <strong>Type: </strong>sling bag<br>
+        <strong>Price: </strong>
+            999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">The Lucien Trekease Sling is a sophisticated and practical sling bag designed for modern lifestyle. Crafted with high-quality materials, it offers convenient and stylish storage for your daily essentials. With its compact size and versatile design, it's the perfect companion for hands-free convenience on the go.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sling</s:tag>
+    <s:variant>
+      <id>https://lucienbags.com/products/7032513593428</id>
+      <title>white</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/7032513593428</id>
+      <title>brown</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lucienbags.com/products/7020376916052</id>
+    <published>2024-04-06T13:05:16+05:30</published>
+    <updated>2024-04-06T13:05:16+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://lucienbags.com/products/lucien-phone-sling-2"/>
+    <title>lucien phone sling 2</title>
+    <s:type>sling bag</s:type>
+    <s:vendor>Lucien</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0573/4645/7684/files/WebPImage_d7a1d7e7-fade-4dac-8244-eb00aed44a38.jpg?v=1712388920"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucien<br>
+        <strong>Type: </strong>sling bag<br>
+        <strong>Price: </strong>
+            999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">The Lucien Phone Sling 2 is a stylish and convenient phone sling bag in brown and white. Keep your phone secure and easily accessible while on the go. Stay hands-free and organized with this sleek and practical accessory. Perfect for the fashion-forward and busy individual.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sling</s:tag>
+    <s:variant>
+      <id>https://lucienbags.com/products/7020376916052</id>
+      <title>brown</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/7020376916052</id>
+      <title>white</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lucienbags.com/products/7020154093652</id>
+    <published>2024-04-06T12:46:09+05:30</published>
+    <updated>2024-04-06T12:46:09+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://lucienbags.com/products/lucien-fur-sling"/>
+    <title>Lucien fur sling</title>
+    <s:type>sling bag</s:type>
+    <s:vendor>Lucien</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0573/4645/7684/files/JPEGimage2_249d39aa-d419-43d4-ba2c-d43e93f945ef.jpg?v=1712387771"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucien<br>
+        <strong>Type: </strong>sling bag<br>
+        <strong>Price: </strong>
+            699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Elevate your style with our Lucien fur sling bag. Made with luxurious fur, this bag exudes sophistication and elegance. Its design seamlessly blends fashion and functionality, making it the perfect accessory for any occasion. Upgrade your wardrobe with our fur sling bag and experience the benefits of impeccable style.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sling</s:tag>
+    <s:variant>
+      <id>https://lucienbags.com/products/7020154093652</id>
+      <title>Default Title</title>
+      <s:price currency="INR">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lucienbags.com/products/7007398723668</id>
+    <published>2024-04-01T19:16:04+05:30</published>
+    <updated>2024-04-01T19:16:04+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://lucienbags.com/products/lucien-wabin-sling-bag"/>
+    <title>lucien wabin sling bag</title>
+    <s:type>sling bag</s:type>
+    <s:vendor>Lucien</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0573/4645/7684/files/JPEGimage2_d535c74a-890e-4702-bfcf-f6569beb0da6.jpg?v=1711979169"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucien<br>
+        <strong>Type: </strong>sling bag<br>
+        <strong>Price: </strong>
+            999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sling</s:tag>
+    <s:variant>
+      <id>https://lucienbags.com/products/7007398723668</id>
+      <title>blue</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/7007398723668</id>
+      <title>red</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/7007398723668</id>
+      <title>light pink</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/7007398723668</id>
+      <title>pink</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/7007398723668</id>
+      <title>gray</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/7007398723668</id>
+      <title>green</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/7007398723668</id>
+      <title>yellow</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/7007398723668</id>
+      <title>khakhi</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lucienbags.com/products/7007393808468</id>
+    <published>2024-04-01T18:55:28+05:30</published>
+    <updated>2024-04-01T18:55:28+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://lucienbags.com/products/lucien-dixie-sling"/>
+    <title>Lucien dixie sling</title>
+    <s:type>sling bag</s:type>
+    <s:vendor>Lucien</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0573/4645/7684/files/JPEGimage14_bddcae8b-99b8-48d9-9472-bc9e453c81f9.jpg?v=1711977936"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucien<br>
+        <strong>Type: </strong>sling bag<br>
+        <strong>Price: </strong>
+            1199.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Introducing the Lucien Dixie Sling, a washable cloth sling bag that combines style and functionality. With its durable material, this sling bag is perfect for everyday use and can be easily cleaned for long-lasting use. Experience convenience and practicality with the Lucien Dixie Sling.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sling</s:tag>
+    <s:variant>
+      <id>https://lucienbags.com/products/7007393808468</id>
+      <title>black</title>
+      <s:price currency="INR">1199.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/7007393808468</id>
+      <title>pink</title>
+      <s:price currency="INR">1199.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/7007393808468</id>
+      <title>light pink</title>
+      <s:price currency="INR">1199.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/7007393808468</id>
+      <title>gray</title>
+      <s:price currency="INR">1199.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/7007393808468</id>
+      <title>dark blue</title>
+      <s:price currency="INR">1199.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/7007393808468</id>
+      <title>orange</title>
+      <s:price currency="INR">1199.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/7007393808468</id>
+      <title>light blue</title>
+      <s:price currency="INR">1199.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/7007393808468</id>
+      <title>khakhi</title>
+      <s:price currency="INR">1199.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/7007393808468</id>
+      <title>green</title>
+      <s:price currency="INR">1199.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lucienbags.com/products/7007391514708</id>
+    <published>2024-04-01T18:43:43+05:30</published>
+    <updated>2024-04-01T18:43:43+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://lucienbags.com/products/lucien-maya-flab-sling"/>
+    <title>Lucien maya flab sling</title>
+    <s:type>sling bag</s:type>
+    <s:vendor>Lucien</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0573/4645/7684/files/JPEGimage28_d71a6e04-29a7-4e00-9e47-b7cf257f8d09.jpg?v=1711977225"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucien<br>
+        <strong>Type: </strong>sling bag<br>
+        <strong>Price: </strong>
+            999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">The Lucien Maya Flab Sling is a versatile and durable sling bag designed for convenience and style. Its lightweight design makes it ideal for everyday use, while its quality construction ensures long lasting performance. With the Lucien Maya Flab Sling, you can easily carry all your essentials while on-the-go.</p>
+<div style="text-align: left;"><strong>PRODUCT DETAILS:     </strong></div>
+<div style="text-align: left;"><br></div>
+<div style="text-align: left;">
+<strong style="font-size: 0.875rem;">MATERIAL:                 </strong><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1">PU MATERIAL   </span><span style="font-size: 0.875rem;"> </span><br>
+</div>
+<div style="text-align: left;">
+<span style="font-size: 0.875rem;"><strong data-mce-fragment="1">WATER RESISTANT:</strong></span><span style="font-size: 0.875rem;">                       Yes<br></span><strong style="font-size: 0.875rem;">PATTERN:                              </strong> <span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1">SOLID     <br></span><strong style="font-size: 0.875rem;">COMPARTMENT</strong><span style="font-size: 0.875rem;"> <strong style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1">: </strong>                             No<br></span><strong style="font-size: 0.875rem;">DIMENSIONS (H x L x W): 14X16</strong><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1">X7</span><strong style="font-size: 0.875rem;"><br> POCKETS:                                 </strong><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1"> Yes</span><strong style="font-size: 0.875rem;"><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1"><br></span></strong><strong style="font-size: 0.875rem;">HANDLE :                                   </strong><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1">Yes</span><strong style="font-size: 0.875rem;"><br></strong><strong style="font-size: 0.875rem;">CLOSURE:                              </strong><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1">Zipper</span><strong style="font-size: 0.875rem;"><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1"><br></span></strong><strong style="font-size: 0.875rem;">CARE INSTRUCTION:        </strong><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1">Wipe with clean, soft cloth</span>   <strong style="font-size: 0.875rem;"><br>WHAT ALL CAN FIT IN:      </strong><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1"> M</span><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1">obile can fit in</span>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://lucienbags.com/products/7007391514708</id>
+      <title>BLACK</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/7007391514708</id>
+      <title>SILVER</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/7007391514708</id>
+      <title>PINK</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/7007391514708</id>
+      <title>WHITE</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lucienbags.com/products/6998747021396</id>
+    <published>2024-03-28T16:40:23+05:30</published>
+    <updated>2024-03-28T16:40:23+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://lucienbags.com/products/lucien-cross-sling"/>
+    <title>Lucien Half Moon Crossbody Slingbag</title>
+    <s:type>sling bag</s:type>
+    <s:vendor>Lucien</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0573/4645/7684/files/JPEGimage16_784df378-cb9b-4474-8147-a2478d741aa1.jpg?v=1711643866"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucien<br>
+        <strong>Type: </strong>sling bag<br>
+        <strong>Price: </strong>
+            699.00 - 6699.00
+            <a href="https://lucienbags.com/products/lucien-cross-sling">(10 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">The Lucien cross sling bag is a convenient and stylish option for carrying your essentials. With its versatile design, this sling bag offers hands-free ease and comfort while on the go. Expertly crafted with high-quality materials, it is durable and practical for everyday use. Perfect for the modern individual looking for a functional and fashion-forward accessory.</p>
+<div style="text-align: left;"><strong>PRODUCT DETAILS:     </strong></div>
+<div style="text-align: left;"><br></div>
+<div style="text-align: left;">
+<strong style="font-size: 0.875rem;">MATERIAL:               Polyester</strong><span style="font-size: 0.875rem;" data-mce-fragment="1" data-mce-style="font-size: 0.875rem;">   </span><span style="font-size: 0.875rem;"> </span><br>
+</div>
+<div style="text-align: left;">
+<span style="font-size: 0.875rem;"><strong data-mce-fragment="1">WATER RESISTANT:</strong></span><span style="font-size: 0.875rem;">                       No<br></span><strong style="font-size: 0.875rem;">PATTERN:                              </strong> <span style="font-size: 0.875rem;" data-mce-fragment="1" data-mce-style="font-size: 0.875rem;">SOLID     <br></span><strong style="font-size: 0.875rem;">COMPARTMENT</strong><span style="font-size: 0.875rem;"> <strong style="font-size: 0.875rem;" data-mce-fragment="1" data-mce-style="font-size: 0.875rem;">: </strong>                             Yes<br></span><strong style="font-size: 0.875rem;">DIMENSIONS (H x L x W): 16</strong><span style="font-size: 0.875rem;" data-mce-fragment="1" data-mce-style="font-size: 0.875rem;">X30X9</span><strong style="font-size: 0.875rem;"><br> POCKETS:                                 </strong><span style="font-size: 0.875rem;" data-mce-fragment="1" data-mce-style="font-size: 0.875rem;"> Yes</span><strong style="font-size: 0.875rem;"><span style="font-size: 0.875rem;" data-mce-fragment="1" data-mce-style="font-size: 0.875rem;"><br></span></strong><strong style="font-size: 0.875rem;">HANDLE :                                   </strong><span style="font-size: 0.875rem;" data-mce-fragment="1" data-mce-style="font-size: 0.875rem;">Yes</span><strong style="font-size: 0.875rem;"><br></strong><strong style="font-size: 0.875rem;">CLOSURE:                              </strong><span style="font-size: 0.875rem;" data-mce-fragment="1" data-mce-style="font-size: 0.875rem;">Zipper</span><strong style="font-size: 0.875rem;"><span style="font-size: 0.875rem;" data-mce-fragment="1" data-mce-style="font-size: 0.875rem;"><br></span></strong><strong style="font-size: 0.875rem;">CARE INSTRUCTION:        </strong><span style="font-size: 0.875rem;" data-mce-fragment="1" data-mce-style="font-size: 0.875rem;">Wipe with clean, soft cloth</span>   <strong style="font-size: 0.875rem;"><br>WHAT ALL CAN FIT IN:      </strong><span style="font-size: 0.875rem;" data-mce-fragment="1" data-mce-style="font-size: 0.875rem;"> M</span><span style="font-size: 0.875rem;" data-mce-fragment="1" data-mce-style="font-size: 0.875rem;">obile can fit in</span>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sling</s:tag>
+    <s:variant>
+      <id>https://lucienbags.com/products/6998747021396</id>
+      <title>Black</title>
+      <s:price currency="INR">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/6998747021396</id>
+      <title>White</title>
+      <s:price currency="INR">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/6998747021396</id>
+      <title>Blue</title>
+      <s:price currency="INR">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/6998747021396</id>
+      <title>Dark Blue</title>
+      <s:price currency="INR">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/6998747021396</id>
+      <title>Orange</title>
+      <s:price currency="INR">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/6998747021396</id>
+      <title>Maroon</title>
+      <s:price currency="INR">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/6998747021396</id>
+      <title>Pink</title>
+      <s:price currency="INR">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/6998747021396</id>
+      <title>Yellow</title>
+      <s:price currency="INR">6699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/6998747021396</id>
+      <title>Grey</title>
+      <s:price currency="INR">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/6998747021396</id>
+      <title>Green</title>
+      <s:price currency="INR">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lucienbags.com/products/6993526292564</id>
+    <published>2024-03-27T15:34:28+05:30</published>
+    <updated>2024-03-27T15:34:28+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://lucienbags.com/products/lucien-taj-sling-bag"/>
+    <title>lucien sling bag</title>
+    <s:type>sling bag</s:type>
+    <s:vendor>Lucien</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0573/4645/7684/files/IMG_7248_ee068979-e1d6-46a6-9cd5-b429cceef325.jpg?v=1711533873"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucien<br>
+        <strong>Type: </strong>sling bag<br>
+        <strong>Price: </strong>
+            1199.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sling</s:tag>
+    <s:variant>
+      <id>https://lucienbags.com/products/6993526292564</id>
+      <title>Default Title</title>
+      <s:price currency="INR">1199.00</s:price>
+      <s:sku>ab-2039</s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lucienbags.com/products/6992515563604</id>
+    <published>2024-03-26T16:00:05+05:30</published>
+    <updated>2024-03-26T16:00:05+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://lucienbags.com/products/lucien-new-classic-sling"/>
+    <title>Lucien New Classic Sling</title>
+    <s:type>sling bag</s:type>
+    <s:vendor>Lucien</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0573/4645/7684/files/IMG_7287_d8aef076-230c-4588-9695-4b858f69379e.jpg?v=1711449007"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucien<br>
+        <strong>Type: </strong>sling bag<br>
+        <strong>Price: </strong>
+            1199.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Introducing the Lucien New Classic Sling - the ultimate slingbag for everyday use. Made with high-quality materials, this sling offers both style and functionality. Its sleek design allows for easy access to your essentials, making it the perfect companion for your busy lifestyle. Upgrade your on-the-go game with the Lucien New Classic Sling.</p>
+<p data-mce-fragment="1"> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://lucienbags.com/products/6992515563604</id>
+      <title>Black</title>
+      <s:price currency="INR">1199.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/6992515563604</id>
+      <title>White</title>
+      <s:price currency="INR">1199.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lucienbags.com/products/6992508289108</id>
+    <published>2024-03-26T15:51:48+05:30</published>
+    <updated>2024-03-26T15:51:48+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://lucienbags.com/products/lucien-bloom-2-0"/>
+    <title>Lucien Bloom 2.0</title>
+    <s:type>sling bag</s:type>
+    <s:vendor>Lucien</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0573/4645/7684/files/IMG_7248.jpg?v=1711448511"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucien<br>
+        <strong>Type: </strong>sling bag<br>
+        <strong>Price: </strong>
+            1099.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">The Lucien Bloom 2.0 is a sleek slingbag designed for convenience and style. With its ergonomic design and durable materials, it offers 20% more storage space compared to the previous model. Keep your essentials organized and easily accessible on-the-go with the Lucien Bloom 2.0.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sling</s:tag>
+    <s:variant>
+      <id>https://lucienbags.com/products/6992508289108</id>
+      <title>Default Title</title>
+      <s:price currency="INR">1099.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lucienbags.com/products/6985160163412</id>
+    <published>2024-03-21T19:47:18+05:30</published>
+    <updated>2024-03-21T19:47:18+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://lucienbags.com/products/luis-bag"/>
+    <title>lucien luis bag</title>
+    <s:type>sling bag</s:type>
+    <s:vendor>Lucien</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0573/4645/7684/files/JPEGimage67_bee014c8-edf5-43af-9bfa-e9c7be598911.jpg?v=1711030641"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucien<br>
+        <strong>Type: </strong>sling bag<br>
+        <strong>Price: </strong>
+            1199.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">The lucien luis bag is expertly designed with multiple zipper compartments for organized storage. With the convenience of a crossbody sling, this bag offers hands-free ease while on the go. Perfect for everyday use, travel, or commute, this bag combines both fashion and function.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sling</s:tag>
+    <s:variant>
+      <id>https://lucienbags.com/products/6985160163412</id>
+      <title>black</title>
+      <s:price currency="INR">1199.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/6985160163412</id>
+      <title>brown</title>
+      <s:price currency="INR">1199.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/6985160163412</id>
+      <title>Beige</title>
+      <s:price currency="INR">1199.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/6985160163412</id>
+      <title>Grey</title>
+      <s:price currency="INR">1199.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/6985160163412</id>
+      <title>green</title>
+      <s:price currency="INR">1199.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lucienbags.com/products/6985151119444</id>
+    <published>2024-03-21T19:17:54+05:30</published>
+    <updated>2024-03-21T19:17:54+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://lucienbags.com/products/lucien-emily-sling-bag"/>
+    <title>Lucien emily sling bag</title>
+    <s:type>sling bag</s:type>
+    <s:vendor>Lucien</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0573/4645/7684/files/JPEGimage57_1.jpg?v=1711028878"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucien<br>
+        <strong>Type: </strong>sling bag<br>
+        <strong>Price: </strong>
+            1299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Use CODE PIHU200 &amp; Get ₹200 OFF</strong></p>
+<div style="text-align: left;" data-mce-style="text-align: left;"><strong>PRODUCT DETAILS:     </strong></div>
+<div style="text-align: left;" data-mce-style="text-align: left;"><br></div>
+<div style="text-align: left;" data-mce-style="text-align: left;">
+<strong>MATERIAL:                 </strong><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1">PU MATERIAL   </span>  <strong><br></strong><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;"><strong data-mce-fragment="1">WATER RESISTANT:</strong></span><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;">                       Yes<br></span><strong style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;">PATTERN:                              </strong> <span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1">SOLID     <br></span><strong style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;">COMPARTMENT</strong><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;"> <strong style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1">: </strong>                             No<br></span><strong style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;">DIMENSIONS (H x L x W): 15</strong><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1">X22X12</span><strong style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;"><br> POCKETS:                                 </strong><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1"> Yes</span><strong style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;"><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1"><br></span></strong><strong style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;">CLOSURE:                              </strong><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1">Zipper</span><strong style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;"><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1"><br></span></strong><strong style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;">CARE INSTRUCTION:        </strong><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1">Wipe with clean, soft cloth</span>   <strong style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;"><br>WHAT ALL CAN FIT IN:      </strong><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1"> M</span><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1">obile can fit in</span>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sling</s:tag>
+    <s:variant>
+      <id>https://lucienbags.com/products/6985151119444</id>
+      <title>Default Title</title>
+      <s:price currency="INR">1299.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lucienbags.com/products/6984232075348</id>
+    <published>2024-03-20T22:39:49+05:30</published>
+    <updated>2024-03-20T22:39:49+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://lucienbags.com/products/lucien-harlow-slingbag"/>
+    <title>Lucien Harlow Slingbag 2.0</title>
+    <s:type>sling bag</s:type>
+    <s:vendor>Lucien</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0573/4645/7684/files/JTF3007-DETAIL-2.jpg?v=1710954591"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucien<br>
+        <strong>Type: </strong>sling bag<br>
+        <strong>Price: </strong>
+            1199.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Crafted with high-quality materials, the Lucien Harlow Slingbag combines functionality and style. The slingbag design provides convenient hands-free carrying, while the durable construction ensures long-lasting use. Perfect for daily use or travel, this bag is a must-have for any fashion-forward individual.</p>
+<div style="text-align: left;"><strong>PRODUCT DETAILS:     </strong></div>
+<div style="text-align: left;"><br></div>
+<div style="text-align: left;">
+<strong style="font-size: 0.875rem;">MATERIAL:                 </strong><span data-mce-fragment="1" style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;">Polyester</span><span style="font-size: 0.875rem;"> </span><br>
+</div>
+<div style="text-align: left;">
+<span style="font-size: 0.875rem;"><strong data-mce-fragment="1">WATER RESISTANT:</strong></span><span style="font-size: 0.875rem;">                       Yes<br></span><strong style="font-size: 0.875rem;">PATTERN:                              </strong> <span data-mce-fragment="1" style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;">SOLID     <br></span><strong style="font-size: 0.875rem;">COMPARTMENT</strong><span style="font-size: 0.875rem;"> <strong data-mce-fragment="1" style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;">: </strong>                             Yes<br></span><strong style="font-size: 0.875rem;">DIMENSIONS (H x L x W): 17</strong><span data-mce-fragment="1" style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;">X20X12</span><strong style="font-size: 0.875rem;"><br> POCKETS:                                 </strong><span data-mce-fragment="1" style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;"> Yes</span><strong style="font-size: 0.875rem;"><span data-mce-fragment="1" style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;"><br></span></strong><strong style="font-size: 0.875rem;">HANDLE :                                   </strong><span data-mce-fragment="1" style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;">Yes</span><strong style="font-size: 0.875rem;"><br></strong><strong style="font-size: 0.875rem;">CLOSURE:                              </strong><span data-mce-fragment="1" style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;">Zipper</span><strong style="font-size: 0.875rem;"><span data-mce-fragment="1" style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;"><br></span></strong><strong style="font-size: 0.875rem;">CARE INSTRUCTION:        </strong><span data-mce-fragment="1" style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;">Wipe with clean, soft cloth</span>   <strong style="font-size: 0.875rem;"><br>WHAT ALL CAN FIT IN:      </strong><span data-mce-fragment="1" style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;"> M</span><span data-mce-fragment="1" style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;">obile can fit in</span>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://lucienbags.com/products/6984232075348</id>
+      <title>Default Title</title>
+      <s:price currency="INR">1199.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lucienbags.com/products/6984157233236</id>
+    <published>2024-03-20T15:44:01+05:30</published>
+    <updated>2024-03-20T15:44:01+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://lucienbags.com/products/lucien-drip-slingbag"/>
+    <title>Lucien Drip Slingbag</title>
+    <s:type>sling bag</s:type>
+    <s:vendor>Lucien</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0573/4645/7684/files/IMG_9039_7ef216df-58a9-4a1c-b07d-3499f577150e.jpg?v=1715284988"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucien<br>
+        <strong>Type: </strong>sling bag<br>
+        <strong>Price: </strong>
+            699.00 - 1399.00
+            <a href="https://lucienbags.com/products/lucien-drip-slingbag">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">This Lucien Drip Slingbag is the perfect solution for those who need a convenient yet stylish way to carry their belongings. With its sleek and modern design, this slingbag is perfect for everyday use or for travel. Made with high-quality materials, it offers both durability and functionality for any occasion.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://lucienbags.com/products/6984157233236</id>
+      <title>Black Classic</title>
+      <s:price currency="INR">899.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/6984157233236</id>
+      <title>2.0  Black</title>
+      <s:price currency="INR">899.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/6984157233236</id>
+      <title>Black</title>
+      <s:price currency="INR">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/6984157233236</id>
+      <title>Black 3.0</title>
+      <s:price currency="INR">1399.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lucienbags.com/products/6980511596628</id>
+    <published>2024-03-17T06:11:59+05:30</published>
+    <updated>2024-03-17T06:11:59+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://lucienbags.com/products/lucien-floral-sling-bag"/>
+    <title>Lucien Floral sling bag</title>
+    <s:type>Hand Bag SLING BAG</s:type>
+    <s:vendor>Lucien</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0573/4645/7684/files/JPEGimage8_8657434f-39f2-42ae-a124-a5dc0cf10706.jpg?v=1710636123"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucien<br>
+        <strong>Type: </strong>Hand Bag SLING BAG<br>
+        <strong>Price: </strong>
+            1199.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Introducing Lucien, the stylish and functional sling bag that offers convenience and organization. With its versatile design and ample storage space, this bag is perfect for everyday use. The durable material ensures long-lasting use, while the adjustable strap provides comfort and customization. Stay organized and stylish with Lucien.</p>
+<div style="text-align: left;"><strong>PRODUCT DETAILS:     </strong></div>
+<div style="text-align: left;"><br></div>
+<div style="text-align: left;">
+<strong style="font-size: 0.875rem;">MATERIAL:                 </strong><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1">PU MATERIAL   </span><span style="font-size: 0.875rem;"> </span><br>
+</div>
+<div style="text-align: left;">
+<span style="font-size: 0.875rem;"><strong data-mce-fragment="1">WATER RESISTANT:</strong></span><span style="font-size: 0.875rem;">                       Yes<br></span><strong style="font-size: 0.875rem;">PATTERN:                              </strong> <span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1">SOLID     <br></span><strong style="font-size: 0.875rem;">COMPARTMENT</strong><span style="font-size: 0.875rem;"> <strong style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1">: </strong>                             Yes<br></span><strong style="font-size: 0.875rem;">DIMENSIONS (H x L x W): 18</strong><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1">X13X9</span><strong style="font-size: 0.875rem;"><br> POCKETS:                                 </strong><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1"> Yes</span><strong style="font-size: 0.875rem;"><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1"><br></span></strong><strong style="font-size: 0.875rem;">HANDLE :                                   </strong><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1">Yes</span><strong style="font-size: 0.875rem;"><br></strong><strong style="font-size: 0.875rem;">CLOSURE:                              </strong><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1">Zipper</span><strong style="font-size: 0.875rem;"><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1"><br></span></strong><strong style="font-size: 0.875rem;">CARE INSTRUCTION:        </strong><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1">Wipe with clean, soft cloth</span>   <strong style="font-size: 0.875rem;"><br>WHAT ALL CAN FIT IN:      </strong><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1"> M</span><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1">obile can fit in</span>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://lucienbags.com/products/6980511596628</id>
+      <title>Blue</title>
+      <s:price currency="INR">1199.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/6980511596628</id>
+      <title>Green</title>
+      <s:price currency="INR">1199.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/6980511596628</id>
+      <title>Beige</title>
+      <s:price currency="INR">1199.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/6980511596628</id>
+      <title>Light Green</title>
+      <s:price currency="INR">1199.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lucienbags.com/products/6980510613588</id>
+    <published>2024-03-17T06:09:08+05:30</published>
+    <updated>2024-03-17T06:09:08+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://lucienbags.com/products/lucien-unisex-sidebar-2-0"/>
+    <title>Lucien unisex sidebar 2.0</title>
+    <s:type>sling bag</s:type>
+    <s:vendor>Lucien</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0573/4645/7684/files/JPEGimage13_246d4ca8-79c7-4dc0-b6d7-6b0452c72959.jpg?v=1710635952"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucien<br>
+        <strong>Type: </strong>sling bag<br>
+        <strong>Price: </strong>
+            1199.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Enhance your daily routine with the Lucien unisex sidebar 2.0. The convenient sidebag feature allows for easy access to essential items while on the go. Keep your hands free and organized, increasing efficiency and productivity. A must-have for any busy lifestyle.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sling</s:tag>
+    <s:variant>
+      <id>https://lucienbags.com/products/6980510613588</id>
+      <title>Blue</title>
+      <s:price currency="INR">1199.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/6980510613588</id>
+      <title>Pink</title>
+      <s:price currency="INR">1199.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lucienbags.com/products/6980509728852</id>
+    <published>2024-03-17T06:06:53+05:30</published>
+    <updated>2024-03-17T06:06:53+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://lucienbags.com/products/lucien-unisex-sidebar"/>
+    <title>Lucien Unisex Sidebar</title>
+    <s:type>sling bag</s:type>
+    <s:vendor>Lucien</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0573/4645/7684/files/JPEGimage12_46fe8539-9590-4999-a2ac-dda8910c21ae.jpg?v=1710635816"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucien<br>
+        <strong>Type: </strong>sling bag<br>
+        <strong>Price: </strong>
+            1099.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">The Lucien Unisex Sidebar is a versatile accessory with a convenient sidebag feature. Perfect for on-the-go individuals, this unisex sidebar adds functionality and style to any outfit. Store small essentials with ease and keep your hands free while staying organized and trendy.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://lucienbags.com/products/6980509728852</id>
+      <title>pink</title>
+      <s:price currency="INR">1099.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/6980509728852</id>
+      <title>blue</title>
+      <s:price currency="INR">1099.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lucienbags.com/products/6980507467860</id>
+    <published>2024-03-17T06:04:24+05:30</published>
+    <updated>2024-03-17T06:04:24+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://lucienbags.com/products/lucien-celestial-2-0"/>
+    <title>Lucien celestial 2.0</title>
+    <s:type>sling bag</s:type>
+    <s:vendor>Lucien</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0573/4645/7684/files/Edited-02.jpg?v=1715251127"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucien<br>
+        <strong>Type: </strong>sling bag<br>
+        <strong>Price: </strong>
+            1399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">The Lucien celestial 2.0 is a sleek and stylish sling bag, perfect for your everyday needs. Designed with ergonomic straps and multiple compartments, it offers convenience and comfort while keeping your belongings organized. Made with high-quality materials, it also provides durability and longevity. Upgrade your bag game with Lucien celestial 2.0.</p>
+<div style="text-align: left;"><strong>PRODUCT DETAILS:     </strong></div>
+<div style="text-align: left;"><br></div>
+<div style="text-align: left;"><br></div>
+<div style="text-align: left;">
+<strong>MATERIAL:                 </strong><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1">PU MATERIAL   </span>  <strong><br></strong><span style="font-size: 0.875rem;"><strong data-mce-fragment="1">WATER RESISTANT:</strong></span><span style="font-size: 0.875rem;">                       Yes<br></span><strong style="font-size: 0.875rem;">PATTERN:                              </strong> <span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1">SOLID     <br></span><strong style="font-size: 0.875rem;">COMPARTMENT</strong><span style="font-size: 0.875rem;"> <strong style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1">: </strong>                             Yes<br></span><strong style="font-size: 0.875rem;">DIMENSIONS (H x L x W): 34</strong><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1">X28X15</span><strong style="font-size: 0.875rem;"><br> POCKETS:                                 </strong><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1"> Yes</span><strong style="font-size: 0.875rem;"><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1"><br></span></strong><strong style="font-size: 0.875rem;">HANDLE :                                   </strong><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1">Yes</span><strong style="font-size: 0.875rem;"><br></strong><strong style="font-size: 0.875rem;">CLOSURE:                              </strong><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1">Zipper</span><strong style="font-size: 0.875rem;"><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1"><br></span></strong><strong style="font-size: 0.875rem;">CARE INSTRUCTION:        </strong><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1">Wipe with clean, soft cloth</span>   <strong style="font-size: 0.875rem;"><br>WHAT ALL CAN FIT IN:      </strong><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1"> M</span><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1">obile can fit in</span>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sling</s:tag>
+    <s:variant>
+      <id>https://lucienbags.com/products/6980507467860</id>
+      <title>Default Title</title>
+      <s:price currency="INR">1399.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lucienbags.com/products/6978108981332</id>
+    <published>2024-03-16T01:08:34+05:30</published>
+    <updated>2024-03-16T01:08:34+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://lucienbags.com/products/lucien-ishra-slingbag-1"/>
+    <title>Lucien Ishra Slingbag</title>
+    <s:type>sling bag</s:type>
+    <s:vendor>Lucien</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0573/4645/7684/files/IMG_4659.jpg?v=1710531516"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucien<br>
+        <strong>Type: </strong>sling bag<br>
+        <strong>Price: </strong>
+            1199.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: center;"><iframe class="giphy-embed" height="480" width="270" src="https://giphy.com/embed/gBXXubz9aXXGIYaLLg" allowfullscreen="" frameborder="0"></iframe></div>
+<div style="text-align: left;"><strong>PRODUCT DETAILS:     </strong></div>
+<div style="text-align: left;"><br></div>
+<div style="text-align: left;">
+<strong style="font-size: 0.875rem;">MATERIAL:                 </strong><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1">PU MATERIAL   </span><span style="font-size: 0.875rem;"> </span><br>
+</div>
+<div style="text-align: left;">
+<span style="font-size: 0.875rem;"><strong data-mce-fragment="1">WATER RESISTANT:</strong></span><span style="font-size: 0.875rem;">                       Yes<br></span><strong style="font-size: 0.875rem;">PATTERN:                              </strong> <span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1">SOLID     <br></span><strong style="font-size: 0.875rem;">COMPARTMENT</strong><span style="font-size: 0.875rem;"> <strong style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1">: </strong>                             No<br></span><strong style="font-size: 0.875rem;">DIMENSIONS (H x L x W): 10</strong><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1">X20X9</span><strong style="font-size: 0.875rem;"><br> POCKETS:                                 </strong><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1"> Yes</span><strong style="font-size: 0.875rem;"><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1"><br></span></strong><strong style="font-size: 0.875rem;">CLOSURE:                              </strong><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1">Zipper</span><strong style="font-size: 0.875rem;"><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1"><br></span></strong><strong style="font-size: 0.875rem;">CARE INSTRUCTION:        </strong><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1">Wipe with clean, soft cloth</span>   <strong style="font-size: 0.875rem;"><br>WHAT ALL CAN FIT IN:      </strong><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1"> M</span><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1">obile can fit in</span>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://lucienbags.com/products/6978108981332</id>
+      <title>Black</title>
+      <s:price currency="INR">1199.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/6978108981332</id>
+      <title>White</title>
+      <s:price currency="INR">1199.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lucienbags.com/products/6978108588116</id>
+    <published>2024-03-16T01:00:51+05:30</published>
+    <updated>2024-03-16T01:00:51+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://lucienbags.com/products/lucien-unisex-slingbag"/>
+    <title>Lucien Unisex Slingbag</title>
+    <s:type>sling bag</s:type>
+    <s:vendor>Lucien</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0573/4645/7684/files/IMG_4651.jpg?v=1710531053"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucien<br>
+        <strong>Type: </strong>sling bag<br>
+        <strong>Price: </strong>
+            1099.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">The Lucien Unisex Slingbag is a versatile and stylish option for anyone on-the-go. Its unisex design allows it to be used by both men and women, while its sling style provides both comfort and convenience. This must-have bag is perfect for everyday use and complements any outfit.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://lucienbags.com/products/6978108588116</id>
+      <title>Default Title</title>
+      <s:price currency="INR">1099.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lucienbags.com/products/6978108424276</id>
+    <published>2024-03-16T00:56:30+05:30</published>
+    <updated>2024-03-16T00:56:30+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://lucienbags.com/products/lucien-rhinestone-slingbag"/>
+    <title>Lucien Rhinestone slingbag</title>
+    <s:type>sling bag</s:type>
+    <s:vendor>Lucien</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0573/4645/7684/files/IMG_4630.jpg?v=1710530792"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucien<br>
+        <strong>Type: </strong>sling bag<br>
+        <strong>Price: </strong>
+            999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">This Lucien Rhinestone slingbag combines fashion and functionality with its sleek design and practical slingbag feature. Perfect for on-the-go individuals, it allows hands-free movement while keeping your belongings secure. Made with high-quality materials, it is a stylish and reliable choice for everyday use.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://lucienbags.com/products/6978108424276</id>
+      <title>Default Title</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lucienbags.com/products/6977983250516</id>
+    <published>2024-03-15T18:17:51+05:30</published>
+    <updated>2024-03-15T18:17:51+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://lucienbags.com/products/lucien-bling-slingbag"/>
+    <title>Lucien Bling Slingbag</title>
+    <s:type></s:type>
+    <s:vendor>Lucien</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0573/4645/7684/files/IMG_0025.jpg?v=1710506874"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucien<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            799.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Introducing the Lucien Bling Slingbag, perfect for adding a touch of glamour to any outfit. This slingbag features a stunning bling design, sure to make you stand out in any crowd. With its sleek and compact design, the Lucien Bling Slingbag is both stylish and practical for all occasions.</p>
+<div style="text-align: left;"><strong>PRODUCT DETAILS:     </strong></div>
+<div style="text-align: left;"><br></div>
+<div style="text-align: left;">
+<strong>MATERIAL:                 </strong><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1">PU MATERIAL   </span>  <strong><br></strong><span style="font-size: 0.875rem;"><strong data-mce-fragment="1">WATER RESISTANT:</strong></span><span style="font-size: 0.875rem;">                       Yes<br></span><strong style="font-size: 0.875rem;">PATTERN:                              </strong> <span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1">SOLID     <br></span><strong style="font-size: 0.875rem;">DIMENSIONS (H x L x W): 15</strong><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1">X18X5</span><strong style="font-size: 0.875rem;"><br> POCKETS:                                 </strong><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1"> Yes</span><strong style="font-size: 0.875rem;"><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1"><br></span></strong><strong style="font-size: 0.875rem;">CLOSURE:                              </strong><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1">Zipper</span><strong style="font-size: 0.875rem;"><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1"><br></span></strong><strong style="font-size: 0.875rem;">CARE INSTRUCTION:        </strong><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1">Wipe with clean, soft cloth</span>   <strong style="font-size: 0.875rem;"><br>WHAT ALL CAN FIT IN:      </strong><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1"> M</span><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1">obile can fit in</span>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://lucienbags.com/products/6977983250516</id>
+      <title>Default Title</title>
+      <s:price currency="INR">799.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lucienbags.com/products/6977982333012</id>
+    <published>2024-03-15T18:16:11+05:30</published>
+    <updated>2024-03-15T18:16:11+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://lucienbags.com/products/lucien-harmony-slingbag"/>
+    <title>Lucien Harmony Slingbag</title>
+    <s:type>sling bag</s:type>
+    <s:vendor>Lucien</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0573/4645/7684/files/JPEGimage_1c56d229-7daf-46a0-ae1a-05c0607827bf.jpg?v=1710506775"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucien<br>
+        <strong>Type: </strong>sling bag<br>
+        <strong>Price: </strong>
+            999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">The Lucien Harmony Slingbag offers convenient hands-free carrying with its stylish sling design. Made with durable materials, this versatile bag is perfect for everyday use and travel. Stay fashionable and organized with the Lucien Harmony Slingbag.</p>
+<div style="text-align: left;"><strong>PRODUCT DETAILS:     </strong></div>
+<div style="text-align: left;"><br></div>
+<div style="text-align: left;">
+<strong style="font-size: 0.875rem;">MATERIAL:                 </strong><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1">PU MATERIAL   </span><span style="font-size: 0.875rem;"> </span><br>
+</div>
+<div style="text-align: left;">
+<span style="font-size: 0.875rem;"><strong data-mce-fragment="1">WATER RESISTANT:</strong></span><span style="font-size: 0.875rem;">                       Yes<br></span><strong style="font-size: 0.875rem;">PATTERN:                              </strong> <span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1">SOLID     <br></span><strong style="font-size: 0.875rem;">COMPARTMENT</strong><span style="font-size: 0.875rem;"> <strong style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1">: </strong>                             No<br></span><strong style="font-size: 0.875rem;">DIMENSIONS (H x L x W): 13</strong><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1">X19X9</span><strong style="font-size: 0.875rem;"><br> POCKETS:                                 </strong><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1"> Yes</span><strong style="font-size: 0.875rem;"><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1"><br></span></strong><strong style="font-size: 0.875rem;">HANDLE :                                   </strong><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1">Yes</span><strong style="font-size: 0.875rem;"><br></strong><strong style="font-size: 0.875rem;">CLOSURE:                              </strong><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1">Zipper</span><strong style="font-size: 0.875rem;"><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1"><br></span></strong><strong style="font-size: 0.875rem;">CARE INSTRUCTION:        </strong><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1">Wipe with clean, soft cloth</span>   <strong style="font-size: 0.875rem;"><br>WHAT ALL CAN FIT IN:      </strong><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1"> M</span><span style="font-size: 0.875rem;" data-mce-style="font-size: 0.875rem;" data-mce-fragment="1">obile can fit in</span>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://lucienbags.com/products/6977982333012</id>
+      <title>Yellow</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/6977982333012</id>
+      <title>Black</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/6977982333012</id>
+      <title>Green</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lucienbags.com/products/6977978040404</id>
+    <published>2024-03-15T18:02:52+05:30</published>
+    <updated>2024-03-15T18:02:52+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://lucienbags.com/products/lucien-mikasa-slingbag"/>
+    <title>Lucien Mikasa Slingbag</title>
+    <s:type>sling bag</s:type>
+    <s:vendor>Lucien</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0573/4645/7684/files/JPEGimage22_3da10f54-d562-43c8-9232-eda184990136.jpg?v=1710505974"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucien<br>
+        <strong>Type: </strong>sling bag<br>
+        <strong>Price: </strong>
+            899.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Introducing the Lucien Mikasa Slingbag - the perfect accessory for your on-the-go lifestyle. With its sleek design and durable material, this slingbag provides convenience and style in one. Keep your essentials organized and easily accessible with this must-have accessory.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://lucienbags.com/products/6977978040404</id>
+      <title>Default Title</title>
+      <s:price currency="INR">899.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lucienbags.com/products/6977976893524</id>
+    <published>2024-03-15T18:00:40+05:30</published>
+    <updated>2024-03-15T18:00:40+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://lucienbags.com/products/lucien-classic-shoulder-bag"/>
+    <title>Lucien  Classic Shoulder bag</title>
+    <s:type></s:type>
+    <s:vendor>Lucien</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0573/4645/7684/files/JPEGimage12_0f9d2352-1864-4344-9363-d897f9c03d2c.jpg?v=1710505843"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucien<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Expertly crafted from luxury materials, the Lucien Classic Shoulder bag is the perfect accessory for any occasion. Its versatile design allows for easy transition from day to night, while the spacious interior and high-quality construction ensure both style and functionality. Make a statement with this timeless shoulder bag.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://lucienbags.com/products/6977976893524</id>
+      <title>Blue</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/6977976893524</id>
+      <title>Green</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+</feed>

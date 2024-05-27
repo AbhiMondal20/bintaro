@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://lucienbags.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://lucienbags.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://lucienbags.com/collections/totebag.atom"/>
+  <title>Lucien</title>
+  <updated>2024-05-15T11:35:54+05:30</updated>
+  <author>
+    <name>Lucien</name>
+  </author>
+  <entry>
+    <id>https://lucienbags.com/products/7200390611028</id>
+    <published>2024-05-15T11:35:54+05:30</published>
+    <updated>2024-05-15T11:35:54+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://lucienbags.com/products/lucien-tera-terry-tote-bag"/>
+    <title>Lucien tera terry tote bag</title>
+    <s:type>tote bag</s:type>
+    <s:vendor>Lucien</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0573/4645/7684/files/Edited-03_61d1aa99-9bdf-4061-ba09-e0c33afb15db.png?v=1715752985"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucien<br>
+        <strong>Type: </strong>tote bag<br>
+        <strong>Price: </strong>
+            1399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Introducing the Lucien Tera Terry Tote Bag - the perfect blend of style and function. This tote bag features a spacious design, making it ideal for carrying all your essentials. With its durable construction and versatile design, this tote bag is a must-have for any modern, on-the-go individual.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://lucienbags.com/products/7200390611028</id>
+      <title>BLACK</title>
+      <s:price currency="INR">1399.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/7200390611028</id>
+      <title>DARK KHAKHI</title>
+      <s:price currency="INR">1399.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lucienbags.com/products/7113030238292</id>
+    <published>2024-04-30T19:09:55+05:30</published>
+    <updated>2024-04-30T19:09:55+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://lucienbags.com/products/sustainable-swag"/>
+    <title>lucien sustainable swag bag</title>
+    <s:type></s:type>
+    <s:vendor>Lucien</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0573/4645/7684/files/Edited-08-min_64858e65-3f5f-410c-913a-6348a0e83e68.png?v=1714484398"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucien<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Introducing Sustainable Swag, the eco-friendly solution for everyday carry. This TOTE BAG is made from 100% organic cotton, reducing waste and supporting sustainable farming practices. With a spacious design and sturdy construction, it's the perfect choice for all your daily adventures.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://lucienbags.com/products/7113030238292</id>
+      <title>BLACK</title>
+      <s:price currency="INR">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/7113030238292</id>
+      <title>WHITE</title>
+      <s:price currency="INR">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lucienbags.com/products/7113024208980</id>
+    <published>2024-04-30T18:58:20+05:30</published>
+    <updated>2024-04-30T18:58:20+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://lucienbags.com/products/lucien-canvas-cargo-bag"/>
+    <title>lucien canvas cargo bag</title>
+    <s:type></s:type>
+    <s:vendor>Lucien</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0573/4645/7684/files/Edited-11-min_10f0d0c1-5464-4020-9400-4a7245e8d789.png?v=1714483702"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucien<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This heavy-duty canvas cargo bag is durable and perfect for all your carrying needs. Made from high-quality materials, it is designed to withstand frequent use and withstand heavy loads. Whether you're hitting the gym or heading on a weekend trip, the Lucien Canvas Cargo Bag has got you covered.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://lucienbags.com/products/7113024208980</id>
+      <title>black</title>
+      <s:price currency="INR">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/7113024208980</id>
+      <title>green</title>
+      <s:price currency="INR">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/7113024208980</id>
+      <title>khakhi</title>
+      <s:price currency="INR">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/7113024208980</id>
+      <title>white</title>
+      <s:price currency="INR">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lucienbags.com/products/7113020702804</id>
+    <published>2024-04-30T18:52:57+05:30</published>
+    <updated>2024-04-30T18:52:57+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://lucienbags.com/products/lucien-tote-terra-bag"/>
+    <title>lucien tote terra bag</title>
+    <s:type></s:type>
+    <s:vendor>Lucien</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0573/4645/7684/files/Edited-12-min_7b06893b-3054-473f-98b5-9c5c9c638384.png?v=1714483382"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucien<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://lucienbags.com/products/7113020702804</id>
+      <title>black</title>
+      <s:price currency="INR">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/7113020702804</id>
+      <title>green</title>
+      <s:price currency="INR">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/7113020702804</id>
+      <title>khakhi</title>
+      <s:price currency="INR">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/7113020702804</id>
+      <title>white</title>
+      <s:price currency="INR">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lucienbags.com/products/7113017753684</id>
+    <published>2024-04-30T18:48:55+05:30</published>
+    <updated>2024-04-30T18:48:55+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://lucienbags.com/products/lucien-earthy-tote-bag"/>
+    <title>lucien earthy tote bag</title>
+    <s:type></s:type>
+    <s:vendor>Lucien</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0573/4645/7684/files/Edited-01-min_1d85aff1-0f99-44c3-8447-16127df5bf08.png?v=1714483138"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucien<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://lucienbags.com/products/7113017753684</id>
+      <title>black</title>
+      <s:price currency="INR">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/7113017753684</id>
+      <title>white</title>
+      <s:price currency="INR">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/7113017753684</id>
+      <title>khakhi</title>
+      <s:price currency="INR">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lucienbags.com/products/7113015230548</id>
+    <published>2024-04-30T18:44:33+05:30</published>
+    <updated>2024-04-30T18:44:33+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://lucienbags.com/products/lucien-canvas-companion-tote-bag"/>
+    <title>lucien canvas companion tote bag</title>
+    <s:type></s:type>
+    <s:vendor>Lucien</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0573/4645/7684/files/Edited-03-min_cf9f954b-7dd6-4b50-9ac3-739d37d59499.png?v=1714482877"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucien<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Crafted from durable canvas, the Lucien Companion Tote Bag is the perfect everyday companion for those on-the-go. Its sturdy construction provides reliable support, while its spacious design allows for easy organization and storage. Enhance your daily routine with this stylish and practical tote bag.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://lucienbags.com/products/7113015230548</id>
+      <title>KHAKHI</title>
+      <s:price currency="INR">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/7113015230548</id>
+      <title>BLACK</title>
+      <s:price currency="INR">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/7113015230548</id>
+      <title>WHITE</title>
+      <s:price currency="INR">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lucienbags.com/products/6975172345940</id>
+    <published>2024-03-13T02:13:00+05:30</published>
+    <updated>2024-03-13T02:13:00+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://lucienbags.com/products/lucien-nylon-tote-bag"/>
+    <title>Lucien Nylon Tote bag</title>
+    <s:type></s:type>
+    <s:vendor>Lucien</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0573/4645/7684/files/IMG_6918_e4d40876-1556-4869-9203-077d9e37a2bf.jpg?v=1710276184"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucien<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1199.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This Lucien Nylon Tote bag is the perfect addition to any modern wardrobe. The sleek and versatile design features a spacious interior, making it ideal for carrying all your essentials in style. With its durable nylon material and functional design, this totebag is the perfect blend of fashion and functionality.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://lucienbags.com/products/6975172345940</id>
+      <title>Black</title>
+      <s:price currency="INR">1199.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/6975172345940</id>
+      <title>Blue</title>
+      <s:price currency="INR">1199.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/6975172345940</id>
+      <title>Green</title>
+      <s:price currency="INR">1199.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/6975172345940</id>
+      <title>Purple</title>
+      <s:price currency="INR">1199.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lucienbags.com/products/6962046500948</id>
+    <published>2024-03-04T17:52:21+05:30</published>
+    <updated>2024-03-04T17:52:21+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://lucienbags.com/products/lucien-fashion-mini-tote-bag"/>
+    <title>Lucien Fashion Mini Tote Bag</title>
+    <s:type></s:type>
+    <s:vendor>Lucien</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0573/4645/7684/files/JPEGimage282.jpg?v=1709554943"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucien<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Discover the stylish and functional Lucien Fashion Mini Tote Bag. Made for everyday use, this tote bag offers ample space for your essentials while keeping you on trend. Its versatile design makes it perfect for work or play. Elevate your fashion game with the must-have tote bag of the season.</p>
+<div style="text-align: left;"><strong>PRODUCT DETAILS:     </strong></div>
+<div style="text-align: left;"><br></div>
+<div style="text-align: left;">
+<strong style="font-size: 0.875rem;">MATERIAL:                 </strong>Polyester<span style="font-size: 0.875rem;" data-mce-fragment="1" data-mce-style="font-size: 0.875rem;"> </span><span style="font-size: 0.875rem;"> </span><br>
+</div>
+<div style="text-align: left;">
+<span style="font-size: 0.875rem;"><strong data-mce-fragment="1">WATER RESISTANT:</strong></span><span style="font-size: 0.875rem;">                       Yes<br></span><strong style="font-size: 0.875rem;">PATTERN:                              </strong> <span style="font-size: 0.875rem;" data-mce-fragment="1" data-mce-style="font-size: 0.875rem;">SOLID     <br></span><strong style="font-size: 0.875rem;">COMPARTMENT</strong><span style="font-size: 0.875rem;"> <strong style="font-size: 0.875rem;" data-mce-fragment="1" data-mce-style="font-size: 0.875rem;">: </strong>                             Yes<br></span><strong style="font-size: 0.875rem;">DIMENSIONS (H x L x W): 24</strong><span style="font-size: 0.875rem;" data-mce-fragment="1" data-mce-style="font-size: 0.875rem;">X24X8</span><strong style="font-size: 0.875rem;"><br> POCKETS:                                 </strong><span style="font-size: 0.875rem;" data-mce-fragment="1" data-mce-style="font-size: 0.875rem;"> Yes</span><strong style="font-size: 0.875rem;"><span style="font-size: 0.875rem;" data-mce-fragment="1" data-mce-style="font-size: 0.875rem;"><br></span></strong><strong style="font-size: 0.875rem;">HANDLE :                                   </strong><span style="font-size: 0.875rem;" data-mce-fragment="1" data-mce-style="font-size: 0.875rem;">Yes</span><strong style="font-size: 0.875rem;"><br></strong><strong style="font-size: 0.875rem;">CLOSURE:                              </strong><span style="font-size: 0.875rem;" data-mce-fragment="1" data-mce-style="font-size: 0.875rem;">Zipper</span><strong style="font-size: 0.875rem;"><span style="font-size: 0.875rem;" data-mce-fragment="1" data-mce-style="font-size: 0.875rem;"><br></span></strong><strong style="font-size: 0.875rem;">CARE INSTRUCTION:        </strong><span style="font-size: 0.875rem;" data-mce-fragment="1" data-mce-style="font-size: 0.875rem;">Wipe with clean, soft cloth</span>   <strong style="font-size: 0.875rem;"><br>WHAT ALL CAN FIT IN:      </strong><span style="font-size: 0.875rem;" data-mce-fragment="1" data-mce-style="font-size: 0.875rem;"> M</span><span style="font-size: 0.875rem;" data-mce-fragment="1" data-mce-style="font-size: 0.875rem;">obile can fit in</span>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://lucienbags.com/products/6962046500948</id>
+      <title>Red</title>
+      <s:price currency="INR">1399.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/6962046500948</id>
+      <title>Beige</title>
+      <s:price currency="INR">1399.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lucienbags.com/products/6961508614228</id>
+    <published>2024-03-03T19:15:09+05:30</published>
+    <updated>2024-03-03T19:15:09+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://lucienbags.com/products/rachel-totebag"/>
+    <title>Rachel Totebag</title>
+    <s:type></s:type>
+    <s:vendor>Lucien</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0573/4645/7684/files/JPEG_image_92_22f15500-a039-46f1-8639-1f72cb65ba9e.jpg?v=1709473448"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucien<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Crafted from durable materials and designed for everyday use, the Rachel Totebag is the perfect accessory for the modern woman on the go. Featuring a spacious interior, this totebag allows you to easily carry all your essentials while still looking stylish. Its versatile design makes it suitable for any occasion, making it a must-have for any wardrobe.</p>
+<div style="text-align: left;"><strong>PRODUCT DETAILS:     </strong></div>
+<div style="text-align: left;"><br></div>
+<div style="text-align: left;"><br></div>
+<div style="text-align: left;">
+<strong>MATERIAL:                 </strong><span style="font-size: 0.875rem;" data-mce-fragment="1" data-mce-style="font-size: 0.875rem;">PU MATERIAL   </span>  <strong><br></strong><span style="font-size: 0.875rem;"><strong data-mce-fragment="1">WATER RESISTANT:</strong></span><span style="font-size: 0.875rem;">                       Yes<br></span><strong style="font-size: 0.875rem;">PATTERN:                              </strong> <span style="font-size: 0.875rem;" data-mce-fragment="1" data-mce-style="font-size: 0.875rem;">SOLID     <br></span><strong style="font-size: 0.875rem;">COMPARTMENT</strong><span style="font-size: 0.875rem;"> <strong style="font-size: 0.875rem;" data-mce-fragment="1" data-mce-style="font-size: 0.875rem;">: </strong>                             Yes<br></span><strong style="font-size: 0.875rem;">DIMENSIONS (H x L x W): 27</strong><span style="font-size: 0.875rem;" data-mce-fragment="1" data-mce-style="font-size: 0.875rem;">X29X12</span><strong style="font-size: 0.875rem;"><br> POCKETS:                                 </strong><span style="font-size: 0.875rem;" data-mce-fragment="1" data-mce-style="font-size: 0.875rem;"> Yes</span><strong style="font-size: 0.875rem;"><span style="font-size: 0.875rem;" data-mce-fragment="1" data-mce-style="font-size: 0.875rem;"><br></span></strong><strong style="font-size: 0.875rem;">CLOSURE:                              </strong><span style="font-size: 0.875rem;" data-mce-fragment="1" data-mce-style="font-size: 0.875rem;">Zipper</span><strong style="font-size: 0.875rem;"><span style="font-size: 0.875rem;" data-mce-fragment="1" data-mce-style="font-size: 0.875rem;"><br></span></strong><strong style="font-size: 0.875rem;">CARE INSTRUCTION:        </strong><span style="font-size: 0.875rem;" data-mce-fragment="1" data-mce-style="font-size: 0.875rem;">Wipe with clean, soft cloth</span>   <strong style="font-size: 0.875rem;"><br>WHAT ALL CAN FIT IN:      </strong><span style="font-size: 0.875rem;" data-mce-fragment="1" data-mce-style="font-size: 0.875rem;"> M</span><span style="font-size: 0.875rem;" data-mce-fragment="1" data-mce-style="font-size: 0.875rem;">obile can fit in</span>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://lucienbags.com/products/6961508614228</id>
+      <title>Black</title>
+      <s:price currency="INR">1299.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lucienbags.com/products/6961508614228</id>
+      <title>Brown</title>
+      <s:price currency="INR">1299.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
