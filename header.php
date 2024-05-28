@@ -313,8 +313,7 @@
     <script
         id="__st">var __st = { "a": 57346457684, "offset": 19800, "reqid": "c021125a-65e2-450f-96aa-8cd8e010d43f-1716725197", "pageurl": "bintaro.in\/?fbclid=PAZXh0bgNhZW0CMTEAAaaXzemR6Bq9uxPETtwrTSfjB8EWMqbhR6JCCJ8Agj2ESb53f8lm9Xlt26A_aem_Ac_KL4kKgoyE9RdGzc_OvxuHdmT2BxPxkEecaoQfL6KnM_Crq2g82wiWihdRg_y901MeAiw-Bg3ofWwurZO-KDAy", "u": "178aa4faa32a", "p": "home" };</script>
     <!-- <script>window.ShopifyPaypalV4VisibilityTracking = true;</script> -->
-    <script
-        id="captcha-bootstrap">!function () { 'use strict'; const e = 'contact', t = 'account', n = 'new_comment', o = e => e.map((([e, t]) => `form[action*='/${e}'] input[name='form_type'][value='${t}']`)).join(','); function c(e, t) { try { const n = window.sessionStorage; for (const [o, c] of Object.entries(JSON.parse(n.getItem(t)))) e.elements[o] && (e.elements[o].value = c); n.removeItem(t) } catch { } } const s = 'form_type', r = 'cptcha'; ((a, i, m, f, u, d) => { if (0) return; let l = !1; a[m] = a[m] || {}, a[m][f] = a[m][f] || {}, a[m][f].q = [], function (a, i, m, f, u, d) { const [l, _, p] = function (c, s, r) { const a = s ? [[e, e], ['blogs', n], ['comments', n], [e, 'customer']] : [], i = c ? [[t, 'customer_login'], [t, 'guest_login'], [t, 'recover_customer_password'], [t, 'create_customer']] : [], m = [...a, ...i], f = o(m), u = o(a.slice(0, 3)), d = r && o(m.filter((([e, t]) => r.includes(t)))), l = e => () => e ? [...document.querySelectorAll(e)].map((e => e.form)) : []; return [l(f), l(u), l(d)] }(!0, !0, d), E = e => { const t = e.target, n = t instanceof HTMLFormElement ? t : t && t.form; return n && l().find((e => n === e)) }; a.addEventListener('submit', (e => { E(e) && e.preventDefault() })); const T = (e, t) => { m(e, t.some((t => t === e))), e.dataset[r] = !0 }; for (const e of ['focusin', 'change']) a.addEventListener(e, (e => { const t = E(e); t && !t.dataset[r] && T(t, _()) })); const g = i.get('form_key'), v = i.get(s), h = g && v, y = d && d.length; (y || h) && a.addEventListener('DOMContentLoaded', (() => { const e = _(); if (h) for (const t of e) t.elements[s].value === v && c(t, g); if (y) for (const t of p()) T(t, e) })) }(i, new URLSearchParams(a.location.search), ((e, t) => { const n = a[m][f], o = n.bindForm, c = '6LeHG2ApAAAAAO4rPaDW-qVpPKPOBfjbCpzJB9ey', s = { infoText: '', privacyText: '', termsText: '' }; if (o) return o(e, c, t, s); n.q.push([e, c, t, s]), l || (i.body.append(Object.assign(i.createElement('script'), { id: 'captcha-provider', async: !0, src: 'https://cdn.shopify.com/shopifycloud/storefront-forms-hcaptcha/ce_storefront_forms_captcha_recaptcha.v1.0.5.iife.js' })), l = !0) }), 0, 0, ['guest_login']) })(window, document, 'Shopify', 'ce_forms') }();</script>
+   
     <script integrity="sha256-n5Uet9jVOXPHGd4hH4B9Y6+BxkTluaaucmYaxAjUcvY="
         data-source-attribution="shopify.loadfeatures" defer="defer"
         src="cdn/shopifycloud/shopify/assets/storefront/load_feature-9f951eb7d8d53973c719de211f807d63af81c644e5b9a6ae72661ac408d472f6.js"
@@ -1509,7 +1508,7 @@
             type="text/css" media="all" />
 
 
-        <div class="utility-bar color-scheme-a8bc3ab3-af3a-4f0d-b3fd-401b9b88dc5e gradient utility-bar--bottom-border">
+        <!-- <div class="utility-bar color-scheme-a8bc3ab3-af3a-4f0d-b3fd-401b9b88dc5e gradient utility-bar--bottom-border">
             <div class="page-width utility-bar__grid">
                 <div class="announcement-bar" role="region" aria-label="Announcement">
                     <p class="announcement-bar__message h5">
@@ -1519,7 +1518,7 @@
                 <div class="localization-wrapper">
                 </div>
             </div>
-        </div>
+        </div> -->
     </div>
 
     <div id="shopify-section-sections--15333407326292__header"

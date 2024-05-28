@@ -234,20 +234,6 @@
       }
     }
   </style>
-
-
-
-
-
-
-  <!-- Google tag (gtag.js) -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-YVYC29QCQ9"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag() { dataLayer.push(arguments); }
-    gtag('js', new Date());
-    gtag('config', 'G-YVYC29QCQ9', { 'groups': 'GA4' });
-  </script>
   <!-- Gokwik theme code End -->
 
   <meta charset="utf-8">
@@ -258,9 +244,7 @@
   <link rel="icon" type="image/png"
     href="../cdn/shop/files/lucien-2-1_1713d.png?crop=center&amp;height=32&amp;v=1708598719&amp;width=32">
   <link rel="preconnect" href="https://fonts.shopifycdn.com/" crossorigin>
-  <title>
-    Slingbag
-    &ndash; Lucien</title>
+  <title>Slingbag &ndash; Your Premier Bag Manufacturer for Innovative and Quality Solutions</title>
 
 
 
@@ -271,15 +255,15 @@
   <meta property="og:title" content="Slingbag">
   <meta property="og:type" content="website">
   <meta property="og:description"
-    content="Welcome to Lucien, your number one source for all bags. We&#39;re dedicated to giving you the very best of bags, with a focus on Design, Quality, Customer">
+    content="Welcome to Bintaro, your number one source for all bags. We&#39;re dedicated to giving you the very best of bags, with a focus on Design, Quality, Customer">
   <meta property="og:image" content="http://lucienbags.com/cdn/shop/collections/Asset-7.png?v=1708598272">
   <meta property="og:image:secure_url" content="https://lucienbags.com/cdn/shop/collections/Asset-7.png?v=1708598272">
   <meta property="og:image:width" content="1921">
   <meta property="og:image:height" content="656">
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="Slingbag">
+  <meta name="twitter:title" content="Bintaro">
   <meta name="twitter:description"
-    content="Welcome to Lucien, your number one source for all bags. We&#39;re dedicated to giving you the very best of bags, with a focus on Design, Quality, Customer">
+    content="Welcome to Bintaro, your number one source for all bags. We&#39;re dedicated to giving you the very best of bags, with a focus on Design, Quality, Customer">
 
 
   <script src="../cdn/shop/t/3/assets/constantsf7ca.js?v=58251544750838685771713312590" defer="defer"></script>
@@ -1342,10 +1326,7 @@
       trekkie.ready(function () {
         if (loaded) return;
         loaded = true;
-
         window.ShopifyAnalytics.lib = window.trekkie;
-
-
         var originalDocumentWrite = document.write;
         document.write = customDocumentWrite;
         try { window.ShopifyAnalytics.merchantGoogleAnalytics.call(this); } catch (error) { };
@@ -1837,7 +1818,7 @@
           <div class="header__heading-logo-wrapper">
 
             <img src="../cdn/shop/files/lucien-2-1_1dcbc.png?v=1708598719&amp;width=600" alt="Lucien"
-              srcset="//lucienbags.com/cdn/shop/files/lucien-2-1_1.png?v=1708598719&amp;width=140 140w, //lucienbags.com/cdn/shop/files/lucien-2-1_1.png?v=1708598719&amp;width=210 210w, //lucienbags.com/cdn/shop/files/lucien-2-1_1.png?v=1708598719&amp;width=280 280w"
+              srcset="//lucienbags.com/cdn/shop/files/lucien-2-1_1dcbc.png?v=1708598719&amp;width=140 140w, //lucienbags.com/cdn/shop/files/lucien-2-1_1dcbc.png?v=1708598719&amp;width=210 210w, //lucienbags.com/cdn/shop/files/lucien-2-1_1dcbc.png?v=1708598719&amp;width=280 280w"
               width="140" height="48.457602339181285" loading="eager" class="header__heading-logo motion-reduce"
               sizes="(max-width: 280px) 50vw, 140px">
           </div>
@@ -1864,7 +1845,7 @@
                 <div class="modal-overlay"></div>
                 <div class="search-modal__content search-modal__content-bottom" tabindex="-1"><predictive-search
                     class="search-modal__form" data-loading-text="Loading...">
-                    <form action="https://lucienbags.com/search" method="get" role="search"
+                    <form action="https://bintaro.in/search" method="get" role="search"
                       class="search search-modal__form">
                       <div class="field">
                         <input class="search__input field__input" id="Search-In-Modal" type="search" name="q" value=""
@@ -1992,7 +1973,7 @@
     "@type": "Organization",
     "name": "Lucien",
     
-      "logo": "https:\/\/lucienbags.com\/cdn\/shop\/files\/lucien-2-1_1.png?v=1708598719\u0026width=500",
+      "logo": "https:\/\/lucienbags.com\/cdn\/shop\/files\/lucien-2-1_1dcbc.png?v=1708598719\u0026width=500",
     
     "sameAs": [
       "",
@@ -2715,8 +2696,7 @@
                             </a>
                           </h3>
                           <div class="card-information"><span class="caption-large light"></span>
-                            <div class="
-    price  price--on-sale">
+                            <div class=" price  price--on-sale">
                               <div class="price__container">
                                 <div class="price__regular"><span
                                     class="visually-hidden visually-hidden--inline">Regular price</span>
@@ -3384,14 +3364,12 @@
                         <div class="card__media">
                           <div class="media media--transparent media--hover-effect">
 
-                            <img srcset="//lucienbags.com/cdn/shop/files/C0CC6EB2-4E18-4ED9-823C-153095F94CCC.jpg?v=1710054643&width=165 165w,//lucienbags.com/cdn/shop/files/C0CC6EB2-4E18-4ED9-823C-153095F94CCC.jpg?v=1710054643&width=360 360w,//lucienbags.com/cdn/shop/files/C0CC6EB2-4E18-4ED9-823C-153095F94CCC.jpg?v=1710054643&width=533 533w,//lucienbags.com/cdn/shop/files/C0CC6EB2-4E18-4ED9-823C-153095F94CCC.jpg?v=1710054643&width=720 720w,//lucienbags.com/cdn/shop/files/C0CC6EB2-4E18-4ED9-823C-153095F94CCC.jpg?v=1710054643&width=940 940w,//lucienbags.com/cdn/shop/files/C0CC6EB2-4E18-4ED9-823C-153095F94CCC.jpg?v=1710054643&width=1066 1066w,//lucienbags.com/cdn/shop/files/C0CC6EB2-4E18-4ED9-823C-153095F94CCC.jpg?v=1710054643 1200w
-                " src="../cdn/shop/files/C0CC6EB2-4E18-4ED9-823C-153095F94CCCf57d.jpg?v=1710054643&amp;width=533"
+                            <img srcset="//lucienbags.com/cdn/shop/files/C0CC6EB2-4E18-4ED9-823C-153095F94CCC.jpg?v=1710054643&width=165 165w,//lucienbags.com/cdn/shop/files/C0CC6EB2-4E18-4ED9-823C-153095F94CCC.jpg?v=1710054643&width=360 360w,//lucienbags.com/cdn/shop/files/C0CC6EB2-4E18-4ED9-823C-153095F94CCC.jpg?v=1710054643&width=533 533w,//lucienbags.com/cdn/shop/files/C0CC6EB2-4E18-4ED9-823C-153095F94CCC.jpg?v=1710054643&width=720 720w,//lucienbags.com/cdn/shop/files/C0CC6EB2-4E18-4ED9-823C-153095F94CCC.jpg?v=1710054643&width=940 940w,//lucienbags.com/cdn/shop/files/C0CC6EB2-4E18-4ED9-823C-153095F94CCC.jpg?v=1710054643&width=1066 1066w,//lucienbags.com/cdn/shop/files/C0CC6EB2-4E18-4ED9-823C-153095F94CCC.jpg?v=1710054643 1200w" src="../cdn/shop/files/C0CC6EB2-4E18-4ED9-823C-153095F94CCCf57d.jpg?v=1710054643&amp;width=533"
                               sizes="(min-width: 1200px) 267px, (min-width: 990px) calc((100vw - 130px) / 4), (min-width: 750px) calc((100vw - 120px) / 3), calc((100vw - 35px) / 2)"
                               alt="Lucien Mark Broad belt Slingbag" class="motion-reduce" loading="lazy" width="1200"
                               height="1200">
-
-                            <img srcset="//lucienbags.com/cdn/shop/files/Edited-07_9b731f96-d9fe-4831-9764-fb4b178b4d42.png?v=1715320359&width=165 165w,//lucienbags.com/cdn/shop/files/Edited-07_9b731f96-d9fe-4831-9764-fb4b178b4d42.png?v=1715320359&width=360 360w,//lucienbags.com/cdn/shop/files/Edited-07_9b731f96-d9fe-4831-9764-fb4b178b4d42.png?v=1715320359&width=533 533w,//lucienbags.com/cdn/shop/files/Edited-07_9b731f96-d9fe-4831-9764-fb4b178b4d42.png?v=1715320359&width=720 720w,//lucienbags.com/cdn/shop/files/Edited-07_9b731f96-d9fe-4831-9764-fb4b178b4d42.png?v=1715320359&width=940 940w,//lucienbags.com/cdn/shop/files/Edited-07_9b731f96-d9fe-4831-9764-fb4b178b4d42.png?v=1715320359&width=1066 1066w,//lucienbags.com/cdn/shop/files/Edited-07_9b731f96-d9fe-4831-9764-fb4b178b4d42.png?v=1715320359 1080w
-                  " src="../cdn/shop/files/Edited-07_9b731f96-d9fe-4831-9764-fb4b178b4d42f179.png?v=1715320359&amp;width=533"
+                            <img srcset="../cdn/shop/files/lucien-2-1_1dcbc.png?v=1715320359&width=165 165w, 1080w
+                  " src="../cdn/shop/files/lucien-2-1_1dcbc.png?v=1715320359&amp;width=533"
                               sizes="(min-width: 1200px) 267px, (min-width: 990px) calc((100vw - 130px) / 4), (min-width: 750px) calc((100vw - 120px) / 3), calc((100vw - 35px) / 2)"
                               alt="" class="motion-reduce" loading="lazy" width="1080" height="1080">
                           </div>
@@ -6082,6 +6060,8 @@
   </main>
 
   <!-- BEGIN sections: footer-group -->
+
+
   <div id="shopify-section-sections--15333407260756__footer" class="shopify-section shopify-section-group-footer-group">
     <link href="../cdn/shop/t/3/assets/section-footer37ab.css?v=72619989355558646551713312590" rel="stylesheet"
       type="text/css" media="all" />
@@ -6432,9 +6412,6 @@
     <script defer="defer"
       src="../../cdn.shopify.com/extensions/b2b456f5-3ab2-41d7-8d46-f6e1aa5314c3/ecomsend-popups-17/assets/mobx_react-custom-roulette.min.js"
       onload="createEcomSendMainJSEle()"></script>
-
-
-
   </div>
   <div id="shopify-block-15683396631634586217" class="shopify-block shopify-app-block">
     <script id="chat-button-container" data-horizontal-position=bottom_right data-vertical-position=lowest
@@ -6442,11 +6419,6 @@
       data-ternary-color=#6A6A6A data-domain=lucienbags.com
       data-external-identifier=iPqVcXC9A9QCswsXQNu8XonbMKiiAl6myJlMO2_u2wE>
       </script>
-
-
   </div>
 </body>
-
-<!-- Mirrored from lucienbags.com/collections/slingbag by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 26 May 2024 14:58:23 GMT -->
-
 </html>

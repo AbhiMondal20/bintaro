@@ -158,7 +158,7 @@
                                                                                                                                                                 </div>
                                                                                                                                                             </div>
                                                                                                                                                         </div>
-                                                                                                                                                        <a href="collections/slingbag.html"
+                                                                                                                                                        <a href="collections/slingbag"
                                                                                                                                                             class="ecom-slider__image--link"></a>
                                                                                                                                                     </div>
                                                                                                                                                 </div>
